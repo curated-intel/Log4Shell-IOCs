@@ -31,4 +31,5 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | MSTIC| Cobalt Strike | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
 | Cronup | Kinsing, Katana-Marai, Tsunami-Mirai | https://twitter.com/1zrr4h/status/1469734728827904002?s=21 |
 | Cisco Talos | Kinsing, Mirai | https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html |
-| Profero | Kinsing | https://medium.com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d | 
+| Profero | Kinsing | https://medium.com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d |
+| CERT.ch | Kinsing, Mirai, Tsunami | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/ |
