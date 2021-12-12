@@ -21,6 +21,8 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Source | Threat | URL |
 | --- | --- | --- |
 | @GelosSnake | Kinsing | https://twitter.com/GelosSnake/status/1469341429541576715 |
+| @an0n_r0| Kinsing | https://twitter.com/an0n_r0/status/1469420399662350336?s=20 |
+| @zom3y3 | Muhstik | https://twitter.com/zom3y3/status/1469508032887414784 |
 | 360 NetLab | Mirai, Muhstik | https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/ |
 | MSTIC| Cobalt Strike | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
 | Cronup | Kinsing, Katana-Marai, Tsunami-Mirai | https://twitter.com/1zrr4h/status/1469734728827904002?s=21 |
