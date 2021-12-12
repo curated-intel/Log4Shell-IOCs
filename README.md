@@ -19,6 +19,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | AbuseIPDB | `Google/Bing Dorks`  site:abuseipdb.com "log4j", site:abuseipdb.com "log4shell" |
 | CrowdSec | https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
 | Andrew Grealy, CTCI | https://docs.google.com/spreadsheets/d/e/2PACX-1vT1hFu_VlZazvc_xsNvXK2GJbPBCDvhgjfCTbNHJoP6ySFu05sIN09neV73tr-oYm8lo42qI_Y0whNB/pubhtml# |
+| Bad Packets | https://twitter.com/bad_packets/status/1469225135504650240 |
 
 ### `Threat Reports`
 
