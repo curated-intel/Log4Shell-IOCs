@@ -15,7 +15,6 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Malware Bazaar | https://bazaar.abuse.ch/browse/tag/log4j/ |
 | ThreatFox | https://threatfox.abuse.ch/browse/tag/log4j/ |
 | Cronup | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets |
-| --- | --- |
 
 ### `Threat Reports`
 
@@ -25,4 +24,3 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | 360 NetLab | Mirai, Muhstik | https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/ |
 | MSTIC| Cobalt Strike | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
 | Cronup | Kinsing, Mirai-Katana, Mirai-Tsunami | https://twitter.com/1zrr4h/status/1469734728827904002?s=21 |
-| --- | --- | --- |
