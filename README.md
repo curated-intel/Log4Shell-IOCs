@@ -15,6 +15,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Malware Bazaar | https://bazaar.abuse.ch/browse/tag/log4j/ |
 | ThreatFox | https://threatfox.abuse.ch/browse/tag/log4j/ |
 | Cronup | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets |
+| RedDrip7 | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs |
 
 ### `Threat Reports`
 
