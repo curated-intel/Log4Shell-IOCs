@@ -4,7 +4,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 
 #### Analyst Comments:
 
-- IOCs shared by these feeds are `LOW-TO-MEDIUM COFIDENCE` we strongly recommend `NOT` adding them to a blocklist
+- IOCs shared by these feeds are `LOW-TO-MEDIUM CONFIDENCE` we strongly recommend `NOT` adding them to a blocklist
 - These could potentially be used for `THREAT HUNTING` and could be added to a `WATCHLIST`
 - Curated Intel members at various organisations recommend to `FOCUS ON POST-EXPLOITATION ACTIVITY` by threats leveraging Log4Shell (ex. threat actors, botnets)
 - IOCs include JNDI requests (LDAP, but also DNS and RMI), cryptominers, DDoS bots, as well as Meterpreter or Cobalt Strike
