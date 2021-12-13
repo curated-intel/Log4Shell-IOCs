@@ -20,6 +20,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Andrew Grealy, CTCI | https://docs.google.com/spreadsheets/d/e/2PACX-1vT1hFu_VlZazvc_xsNvXK2GJbPBCDvhgjfCTbNHJoP6ySFu05sIN09neV73tr-oYm8lo42qI_Y0whNB/pubhtml# |
 | Bad Packets | https://twitter.com/bad_packets/status/1469225135504650240 |
 | NCSC-NL | https://github.com/NCSC-NL/log4shell/tree/main/iocs |
+| Costin Raiu, Kaspersky | https://twitter.com/craiu/status/1470341085734051840?s=21 |
 
 ### `Threat Reports`
 
