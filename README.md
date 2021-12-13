@@ -7,7 +7,6 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Source | URL |
 | --- | --- |
 | GreyNoise (1) | https://gist.github.com/gnremy/c546c7911d5f876f263309d7161a7217 |
-| GreyNoise (2) | https://gist.github.com/nathanqthai/01808c569903f41a52e7e7b575caa890 |
 | Malwar3Ninja's GitHub | https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228/blob/main/Threatview.io-log4j2-IOC-list |
 | Tweetfeed.live by @0xDanielLopez | https://twitter.com/0xdaniellopez/status/1470029308152487940?s=21 |
 | Azure Sentinel | https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv |
@@ -37,3 +36,10 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | IronNet | Mirai, Cobalt Strike | https://www.ironnet.com/blog/log4j-new-software-supply-chain-vulnerability-unfolding-as-this-holidays-cyber-nightmare |
 | @80vul | New Ransomware | https://twitter.com/80vul/status/1470272820571963392 |
 | @Laughing_Mantis | Log4j Worm | https://twitter.com/Laughing_Mantis/status/1470168079137067008 |
+
+### `Payload Examples`
+
+| Source | URL |
+| --- | --- |
+| GreyNoise (2) | https://gist.github.com/nathanqthai/01808c569903f41a52e7e7b575caa890 |
+| Cloudflare | https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/ |
