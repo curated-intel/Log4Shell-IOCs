@@ -39,6 +39,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | IronNet | Mirai, Cobalt Strike | https://www.ironnet.com/blog/log4j-new-software-supply-chain-vulnerability-unfolding-as-this-holidays-cyber-nightmare |
 | @80vul | New Ransomware | https://twitter.com/80vul/status/1470272820571963392 |
 | @Laughing_Mantis | Log4j Worm | https://twitter.com/Laughing_Mantis/status/1470168079137067008 |
+| Lacework | Kinsing, Mirai | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
 
 ### `Payload Examples`
 
@@ -48,3 +49,4 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Cloudflare | https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/ |
 | yt0ng | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
 | eromang | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
+| VX-Underground | https://samples.vx-underground.org/samples/Families/Log4J%20Malware/ |
