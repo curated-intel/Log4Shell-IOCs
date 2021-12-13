@@ -19,6 +19,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | CrowdSec | https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
 | Andrew Grealy, CTCI | https://docs.google.com/spreadsheets/d/e/2PACX-1vT1hFu_VlZazvc_xsNvXK2GJbPBCDvhgjfCTbNHJoP6ySFu05sIN09neV73tr-oYm8lo42qI_Y0whNB/pubhtml# |
 | Bad Packets | https://twitter.com/bad_packets/status/1469225135504650240 |
+| NCSC-NL | https://github.com/NCSC-NL/log4shell/tree/main/iocs |
 
 ### `Threat Reports`
 
@@ -43,3 +44,5 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | --- | --- |
 | GreyNoise (2) | https://gist.github.com/nathanqthai/01808c569903f41a52e7e7b575caa890 |
 | Cloudflare | https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/ |
+| yt0ng | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
+| eromang | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
