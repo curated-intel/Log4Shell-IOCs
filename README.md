@@ -50,7 +50,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | @Laughing_Mantis | Log4j Worm | https://twitter.com/Laughing_Mantis/status/1470168079137067008 |
 | Lacework | Kinsing, Mirai | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
 | 360 NetLab (2) | Muhstik, Mirai, BillGates, XMRig, m8220, SitesLoader, Meterperter | https://blog.netlab.360.com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/ |
-| Trend Micro | Mirai, Kinsing | https://success.trendmicro.com/solution/000289946 |
+| Trend Micro | Cobalt Strike, Kirabash, Swrort, Kinsing, Mirai | https://www.trendmicro.com/en_us/research/21/l/patch-now-apache-log4j-vulnerability-called-log4shell-being-acti.html |
 
 ### `Payload Examples`
 
