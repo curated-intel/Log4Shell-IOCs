@@ -32,6 +32,9 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Kaspersky | https://securelist.com/cve-2021-44228-vulnerability-in-apache-log4j-library/105210/ |
 | SANS Internet Storm Center | https://isc.sans.edu/diary/Log4Shell+exploited+to+implant+coin+miners/28124 |
 | @cyber__sloth | https://twitter.com/cyber__sloth/status/1470353289866850305?s=21 |
+| SuperDuckToes | https://gist.github.com/superducktoes/9b742f7b44c71b4a0d19790228ce85d8 |
+| Nozomi Networks | https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/ |
+| Miguel Jiménez | https://hominido.medium.com/iocs-para-log4shell-rce-0-day-cve-2021-44228-98019dd06f35 |
 
 ### `Threat Reports`
 
