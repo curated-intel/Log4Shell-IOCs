@@ -31,6 +31,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Costin Raiu, Kaspersky | https://twitter.com/craiu/status/1470341085734051840?s=21 |
 | Kaspersky | https://securelist.com/cve-2021-44228-vulnerability-in-apache-log4j-library/105210/ |
 | SANS Internet Storm Center | https://isc.sans.edu/diary/Log4Shell+exploited+to+implant+coin+miners/28124 |
+| @cyber__sloth | https://twitter.com/cyber__sloth/status/1470353289866850305?s=21 |
 
 ### `Threat Reports`
 
