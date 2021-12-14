@@ -45,7 +45,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | @zom3y3 | Muhstik | https://twitter.com/zom3y3/status/1469508032887414784 |
 | 360 NetLab (1) | Mirai, Muhstik | https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/ |
 | MSTIC| Cobalt Strike | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
-| Cronup | Kinsing, Katana-Mirai, Tsunami-Mirai | https://twitter.com/1zrr4h/status/1469734728827904002?s=21 |
+| Cronup | Kinsing, Katana-Mirai, Tsunami-Muhstik | https://twitter.com/1zrr4h/status/1469734728827904002?s=21 |
 | Cisco Talos | Kinsing, Mirai | https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html |
 | Profero | Kinsing | https://medium.com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d |
 | CERT.ch | Kinsing, Mirai, Tsunami | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/ |
