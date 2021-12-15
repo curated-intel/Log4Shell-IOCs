@@ -67,6 +67,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Cado Security (1) | Mirai, Muhstik, Kinsing | https://www.cadosecurity.com/analysis-of-initial-in-the-wild-attacks-exploiting-log4shell-log4j-cve-2021-44228/ |
 | Cado Security (2) | Khonsari Ransomware | https://www.cadosecurity.com/analysis-of-novel-khonsari-ransomware-deployed-by-the-log4shell-vulnerability/ |
 | Valtix | Kinsing, Zgrab | https://valtix.com/blog/log4shell-observations/ |
+| Fastly | Gafgyt | https://www.fastly.com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44228 |
 
 ### `Payload Examples`
 
