@@ -13,7 +13,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 - 2021-12-14
   - Curated Intel members profiled active exploitation threats
 - 2021-12-15
-  - Curated Intel members are parsing  medium confidence feeds as a set of [standardized threat hunting feeds](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/Threat%20Hunt%20Feed%20-%20Medium%20Confidence)
+  - Curated Intel members parsed `MEDIUM CONFIDENCE FEEDS` to be `MISP COMPATIBLE` using [KPMG's MISP implementation](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/Threat%20Hunt%20Feed%20-%20Medium%20Confidence)
 
 ### `Indicators of Compromise (IOCs)`
 | Source | URL |
