@@ -79,6 +79,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | eromang | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
 | VX-Underground | https://samples.vx-underground.org/samples/Families/Log4J%20Malware/ |
 | Malware-Traffic-Analysis (PCAP) | https://www.malware-traffic-analysis.net/2021/12/14/index.html |
+| rwincey| https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads |
 
 ### `Threat Profiling`
 | Threat                | Type                             | Profile: Malpedia                                                                                                    | Profile: MITRE ATT&CK                                                                     | Activity                                                                                                                                                   |
