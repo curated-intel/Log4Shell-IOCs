@@ -44,7 +44,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | @an0n_r0| Kinsing | https://twitter.com/an0n_r0/status/1469420399662350336?s=20 |
 | @zom3y3 | Muhstik | https://twitter.com/zom3y3/status/1469508032887414784 |
 | 360 NetLab (1) | Mirai, Muhstik | https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/ |
-| MSTIC| Cobalt Strike | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
+| MSTIC (1) | Cobalt Strike | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
 | Cronup | Kinsing, Katana-Mirai, Tsunami-Muhstik | https://twitter.com/1zrr4h/status/1469734728827904002?s=21 |
 | Cisco Talos | Kinsing, Mirai | https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html |
 | Profero | Kinsing | https://medium.com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d |
@@ -56,6 +56,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | 360 NetLab (2) | Muhstik, Mirai, BillGates (Elknot), XMRig, m8220, SitesLoader, Meterpreter | https://blog.netlab.360.com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/ |
 | Trend Micro | Cobalt Strike, Kirabash, Swrort, Kinsing, Mirai | https://www.trendmicro.com/en_us/research/21/l/patch-now-apache-log4j-vulnerability-called-log4shell-being-acti.html |
 | BitDefender | Khonsari Ransomware, Orcus RAT, XMRig, Muhstik | https://businessinsights.bitdefender.com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild |
+| MSTIC (2) | PHOSPHORUS, HAFNIUM, IABs | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
 
 ### `Payload Examples`
 
