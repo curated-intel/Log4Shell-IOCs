@@ -40,6 +40,8 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Nozomi Networks | https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/ |
 | Miguel Jiménez | https://hominido.medium.com/iocs-para-log4shell-rce-0-day-cve-2021-44228-98019dd06f35 |
 | CERT Italy | https://cert-agid.gov.it/download/log4shell-iocs.txt |
+| RISKIQ | https://community.riskiq.com/article/57abbfcf/indicators |
+| Infoblox | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/log4j-exploit-harvesting/ |
 
 ### `Threat Reports`
 
@@ -62,6 +64,9 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Trend Micro | Cobalt Strike, Kirabash, Swrort, Kinsing, Mirai | https://www.trendmicro.com/en_us/research/21/l/patch-now-apache-log4j-vulnerability-called-log4shell-being-acti.html |
 | BitDefender | Khonsari Ransomware, Orcus RAT, XMRig, Muhstik | https://businessinsights.bitdefender.com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild |
 | MSTIC (2) | PHOSPHORUS, HAFNIUM, Initial Access Brokers | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
+| Cado Security (1) | Mirai, Muhstik, Kinsing | https://www.cadosecurity.com/analysis-of-initial-in-the-wild-attacks-exploiting-log4shell-log4j-cve-2021-44228/ |
+| Cado Security (2) | Khonsari Ransomware | https://www.cadosecurity.com/analysis-of-novel-khonsari-ransomware-deployed-by-the-log4shell-vulnerability/ |
+| Valtix | Kinsing, Zgrab | https://valtix.com/blog/log4shell-observations/ |
 
 ### `Payload Examples`
 
