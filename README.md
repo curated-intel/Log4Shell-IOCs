@@ -35,6 +35,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | SuperDuckToes | https://gist.github.com/superducktoes/9b742f7b44c71b4a0d19790228ce85d8 |
 | Nozomi Networks | https://www.nozominetworks.com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/ |
 | Miguel Jiménez | https://hominido.medium.com/iocs-para-log4shell-rce-0-day-cve-2021-44228-98019dd06f35 |
+| CERT Italy | https://cert-agid.gov.it/download/log4shell-iocs.txt |
 
 ### `Threat Reports`
 
