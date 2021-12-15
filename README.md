@@ -23,7 +23,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | ThreatFox | https://threatfox.abuse.ch/browse/tag/log4j/ |
 | Cronup | https://github.com/CronUp/Malware-IOCs/blob/main/2021-12-11_Log4Shell_Botnets |
 | RedDrip7 | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs |
-| AbuseIPDB | `Google/Bing Dorks`  site:abuseipdb.com "log4j", site:abuseipdb.com "log4shell" |
+| AbuseIPDB | `Google/Bing Dorks`  site:abuseipdb.com "log4j", site:abuseipdb.com "log4shell", site:abuseipdb.com "jndi" |
 | CrowdSec | https://gist.github.com/blotus/f87ed46718bfdc634c9081110d243166 |
 | Andrew Grealy, CTCI | https://docs.google.com/spreadsheets/d/e/2PACX-1vT1hFu_VlZazvc_xsNvXK2GJbPBCDvhgjfCTbNHJoP6ySFu05sIN09neV73tr-oYm8lo42qI_Y0whNB/pubhtml# |
 | Bad Packets | https://twitter.com/bad_packets/status/1469225135504650240 |
