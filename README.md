@@ -42,6 +42,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | CERT Italy | https://cert-agid.gov.it/download/log4shell-iocs.txt |
 | RISKIQ | https://community.riskiq.com/article/57abbfcf/indicators |
 | Infoblox | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/log4j-exploit-harvesting/ |
+| Juniper Networks | https://blogs.juniper.net/en-us/security/apache-log4j-vulnerability-cve-2021-44228-raises-widespread-concerns |
 
 ### `Threat Reports`
 
