@@ -82,7 +82,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Malware-Traffic-Analysis (PCAP) | https://www.malware-traffic-analysis.net/2021/12/14/index.html |
 | rwincey| https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads |
 
-### `Threat Reports`
+### `Threat Profiling`
 | Threat                | Type                           | Profile: Malpedia                                                                                                    | Profile: MITRE ATT&CK                                                                     | Activity                                                                                                                                                   |
 | --------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cobalt Strike         | Attack tool usage              | [Cobalt Strike (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.cobalt_strike) | [Cobalt Strike, Software S0154 - MITRE ATT&CK®](https://attack.mitre.org/software/S0154/) | [Command and Control, Tactic TA0011 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/tactics/TA0011/)                                                |
