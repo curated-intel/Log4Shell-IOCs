@@ -45,6 +45,44 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Juniper Networks | https://blogs.juniper.net/en-us/security/apache-log4j-vulnerability-cve-2021-44228-raises-widespread-concerns |
 
 ### `Threat Reports`
+
+| Source | Threat | URL |
+| --- | --- | --- |
+| @GelosSnake | Kinsing | https://twitter.com/GelosSnake/status/1469341429541576715 |
+| @an0n_r0| Kinsing | https://twitter.com/an0n_r0/status/1469420399662350336?s=20 |
+| @zom3y3 | Muhstik | https://twitter.com/zom3y3/status/1469508032887414784 |
+| 360 NetLab (1) | Mirai, Muhstik | https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/ |
+| MSTIC (1) | Cobalt Strike | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
+| Cronup | Kinsing, Katana-Mirai, Tsunami-Muhstik | https://twitter.com/1zrr4h/status/1469734728827904002?s=21 |
+| Cisco Talos | Kinsing, Mirai | https://blog.talosintelligence.com/2021/12/apache-log4j-rce-vulnerability.html |
+| Profero | Kinsing | https://medium.com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d |
+| CERT.ch | Kinsing, Mirai, Tsunami | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/ |
+| IronNet | Mirai, Cobalt Strike | https://www.ironnet.com/blog/log4j-new-software-supply-chain-vulnerability-unfolding-as-this-holidays-cyber-nightmare |
+| @80vul | New Ransomware | https://twitter.com/80vul/status/1470272820571963392 |
+| @Laughing_Mantis | Log4j Worm | https://twitter.com/Laughing_Mantis/status/1470168079137067008 |
+| Lacework | Kinsing, Mirai | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
+| 360 NetLab (2) | Muhstik, Mirai, BillGates (Elknot), XMRig, m8220, SitesLoader, Meterpreter | https://blog.netlab.360.com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/ |
+| Trend Micro | Cobalt Strike, Kirabash, Swrort, Kinsing, Mirai | https://www.trendmicro.com/en_us/research/21/l/patch-now-apache-log4j-vulnerability-called-log4shell-being-acti.html |
+| BitDefender | Khonsari Ransomware, Orcus RAT, XMRig, Muhstik | https://businessinsights.bitdefender.com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild |
+| MSTIC (2) | PHOSPHORUS, HAFNIUM, Initial Access Brokers | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/ |
+| Cado Security (1) | Mirai, Muhstik, Kinsing | https://www.cadosecurity.com/analysis-of-initial-in-the-wild-attacks-exploiting-log4shell-log4j-cve-2021-44228/ |
+| Cado Security (2) | Khonsari Ransomware | https://www.cadosecurity.com/analysis-of-novel-khonsari-ransomware-deployed-by-the-log4shell-vulnerability/ |
+| Valtix | Kinsing, Zgrab | https://valtix.com/blog/log4shell-observations/ |
+| Fastly | Gafgyt | https://www.fastly.com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44228 |
+
+### `Payload Examples`
+
+| Source | URL |
+| --- | --- |
+| GreyNoise (2) | https://gist.github.com/nathanqthai/01808c569903f41a52e7e7b575caa890 |
+| Cloudflare | https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/ |
+| yt0ng | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
+| eromang | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
+| VX-Underground | https://samples.vx-underground.org/samples/Families/Log4J%20Malware/ |
+| Malware-Traffic-Analysis (PCAP) | https://www.malware-traffic-analysis.net/2021/12/14/index.html |
+| rwincey| https://github.com/rwincey/CVE-2021-44228-Log4j-Payloads |
+
+### `Threat Reports`
 | Threat                | Type                           | Profile: Malpedia                                                                                                    | Profile: MITRE ATT&CK                                                                     | Activity                                                                                                                                                   |
 | --------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Cobalt Strike         | Attack tool usage              | [Cobalt Strike (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.cobalt_strike) | [Cobalt Strike, Software S0154 - MITRE ATT&CK®](https://attack.mitre.org/software/S0154/) | [Command and Control, Tactic TA0011 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/tactics/TA0011/)                                                |
