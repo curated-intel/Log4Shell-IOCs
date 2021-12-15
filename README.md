@@ -72,6 +72,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | yt0ng | https://gist.github.com/yt0ng/8a87f4328c8c6cde327406ef11e68726 |
 | eromang | https://github.com/eromang/researches/tree/main/CVE-2021-44228 |
 | VX-Underground | https://samples.vx-underground.org/samples/Families/Log4J%20Malware/ |
+| Malware-Traffic-Analysis (PCAP) | https://www.malware-traffic-analysis.net/2021/12/14/index.html |
 
 ### `Threat Profiling`
 | Threat                | Type                             | Profile: Malpedia                                                                                                    | Profile: MITRE ATT&CK                                                                     | Activity                                                                                                                                                   |
