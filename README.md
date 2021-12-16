@@ -15,6 +15,8 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 - 2021-12-15
   - Curated Intel members parsed `MEDIUM CONFIDENCE FEEDS` to be `MISP COMPATIBLE` using [KPMG's MISP implementation](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/Threat%20Hunt%20Feed%20-%20Medium%20Confidence)
   - Curated Intel members profiled active [threat groups (nation states and organized crime)](https://github.com/curated-intel/Log4Shell-IOCs/blob/main/README.md#threat-groups)
+- 2021-12-16
+  - Curated Intel members confirmed the previously unnamed "[New Ransomware](https://twitter.com/80vul/status/1470272820571963392)" is actually "[TellYouThePass Ransomware](https://www.curatedintel.org/2021/12/tellyouthepass-ransomware-via-log4shell.html)", mostly targeting Chinese infrastructure
 
 ### `Indicators of Compromise (IOCs)`
 | Source | URL |
@@ -60,7 +62,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Profero | Kinsing | https://medium.com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d |
 | CERT.ch | Kinsing, Mirai, Tsunami | https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/ |
 | IronNet | Mirai, Cobalt Strike | https://www.ironnet.com/blog/log4j-new-software-supply-chain-vulnerability-unfolding-as-this-holidays-cyber-nightmare |
-| @80vul | New Ransomware | https://twitter.com/80vul/status/1470272820571963392 |
+| @CuratedIntel | TellYouThePass Ransomware | https://www.curatedintel.org/2021/12/tellyouthepass-ransomware-via-log4shell.html |
 | @Laughing_Mantis | Log4j Worm | https://twitter.com/Laughing_Mantis/status/1470168079137067008 |
 | Lacework | Kinsing, Mirai | https://www.lacework.com/blog/lacework-labs-identifies-log4j-attackers/ |
 | 360 NetLab (2) | Muhstik, Mirai, BillGates (Elknot), XMRig, m8220, SitesLoader, Meterpreter | https://blog.netlab.360.com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/ |
@@ -101,7 +103,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Kirabash              | Infostealer usage              | N/A                                                                                                                  | N/A                                                                                       | [OS Credential Dumping: /etc/passwd and /etc/shadow, Sub-technique T1003.008 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/techniques/T1003/008/) |
 | XMRig                 | Mining tool usage              | N/A                                                                                                                  | N/A                                                                                       | [Resource Hijacking, Technique T1496 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/techniques/T1496/)                                             |
 | Zgrab                 | Network scanner tool usage     | N/A                                                                                                                  | N/A                                                                                       | [Network Service Scanning, Technique T1046 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/techniques/T1046/)                                       |
-| New Ransomware        | Ransomware usage               | N/A                                                                                                                  | N/A                                                                                       | [Data Encrypted for Impact, Technique T1486 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/techniques/T1486/)                                      |
+| TellYouThePass Ransomware        | Ransomware usage               | N/A                                                                                                                  | N/A                                                                                       | [Data Encrypted for Impact, Technique T1486 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/techniques/T1486/)                                      |
 | Khonsari Ransomware   | Ransomware usage               | N/A                                                                                                                  | N/A                                                                                       | [Data Encrypted for Impact, Technique T1486 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/techniques/T1486/)                                      |
 
 ### `Threat Groups`
