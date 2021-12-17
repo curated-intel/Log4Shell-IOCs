@@ -18,7 +18,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 - 2021-12-16
   - Curated Intel members confirmed the previously unnamed "[New Ransomware](https://twitter.com/80vul/status/1470272820571963392)" is actually "[TellYouThePass Ransomware](https://www.curatedintel.org/2021/12/tellyouthepass-ransomware-via-log4shell.html)", mostly targeting Chinese infrastructure
 - 2021-12-17
-  - Curated Intel members parsed `VETTED IOCs` to a `CSV File` with the help of the [Equinix Threat Analysis Center (ETAC)™️](https://github.com/curated-intel/Log4Shell-IOCs/blob/main/ETAC_Log4Shell_Analysis/ETAC_Vetted_Log4Shell_IOCs.csv)
+  - Curated Intel members parsed `VETTED IOCs` to a `CSV File` with the help of the [Equinix Threat Analysis Center (ETAC)](https://github.com/curated-intel/Log4Shell-IOCs/blob/main/ETAC_Log4Shell_Analysis/ETAC_Vetted_Log4Shell_IOCs.csv)
   - ETAC has also [shared a diagram](https://github.com/curated-intel/Log4Shell-IOCs/blob/main/ETAC_Log4Shell_Analysis/ETAC_Identified_Threats_Log4Shell.jpg) of threat actors, malware, and botnets, leveraging Log4Shell in the wild
 
 ### `Indicators of Compromise (IOCs)`
