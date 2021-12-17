@@ -75,6 +75,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Fastly | Gafgyt | https://www.fastly.com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44228 |
 | Check Point | StealthLoader | https://research.checkpoint.com/2021/stealthloader-malware-leveraging-log4shell/ |
 | Juniper Networks (2) | XMRig | https://blogs.juniper.net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi |
+| AdvIntel | Conti | https://www.bleepingcomputer.com/news/security/conti-ransomware-uses-log4j-bug-to-hack-vmware-vcenter-servers/
 
 ### `Payload Examples`
 
