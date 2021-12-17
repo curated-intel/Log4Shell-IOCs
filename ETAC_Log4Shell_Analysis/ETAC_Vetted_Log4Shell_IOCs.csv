@@ -1,0 +1,327 @@
+﻿IOC Type,IOC,Context,Source
+URL,hxxp://205[.]185[.]113[.]59:1234/[.]inis,8220 Mining Group,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://205[.]185[.]113[.]59:1234/[.]rsyslogds,8220 Mining Group,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://205[.]185[.]113[.]59:1234/xmss,8220 Mining Group,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://agent[.]apacheorg[.]top:1234/xmss ,8220 Mining Group,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://154[.]82[.]110[.]5:1234/win[.]exe,Elknot/BillGates,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://155[.]94[.]154[.]170/aaa,Elknot/BillGates,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://155[.]94[.]154[.]170/log4j,Elknot/BillGates,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+MD5,36796319567f5a05571006b874903e87,Elknot/BillGates,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+Domain,300gsyn[.]it,Elknot/BillGates,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+SHA256,90ee1a8e8f0ea5085b83b8efe174674a93260b599729bf53e1b140e2acc7d26f,Elknot/BillGates,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://170[.]178[.]196[.]41:1111/pglQLHfm,Meterpreter,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://170[.]178[.]196[.]41:35244/qIoPIauO,Meterpreter,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://170[.]178[.]196[.]41:8080/UKTPAnRvns,Meterpreter,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://47[.]243[.]78[.]246/12,Meterpreter,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+MD5,5ac6ded41f9a61cd9d026e91af47b695 ,Meterpreter,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+MD5,84c2ccc2f2a4d4fe71249bad63252f32,Meterpreter,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+MD5,eb71a394bcf3e8f83198d51f3f6d7422,Meterpreter,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+SHA256,138e372113f10e9caeefddd9fbd52eccb30382d4dc965a74f5be669ee0634c79,Meterpreter,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://172[.]105[.]241[.]146:80/wp-content/themes/twentysixteen/s[.]cmd,Muhstik,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://185[.]250[.]148[.]157:8005/acc,SitesLoader XMRig,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://185[.]250[.]148[.]157:8005/index,SitesLoader XMRig,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://141[.]98[.]83[.]139:18080/nG60k1,Unknown PE,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://141[.]98[.]83[.]139:18080/nG60k1/RWjxFwxCBE,Unknown PE,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://141[.]98[.]83[.]139:9883/exp[.]class,Unknown PE,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+MD5,5b30284b34dcc1912326812c7d2ea723,Unknown PE,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://129[.]226[.]180[.]53/xmrig_setup/raw/master/setup_c3pool_miner[.]sh,XMRig Miner,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://129[.]226[.]180[.]53/xmrig_setup/raw/master/xmrig[.]tar[.]gz,XMRig Miner,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://31[.]220[.]58[.]29/Exploit[.]class,XMRig Miner,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://54[.]210[.]230[.]186:80/wp-content/themes/twentyfourteen/xmrig[.]exe,XMRig Miner,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+MD5,bf6935865f63c32c0530a61da9b85d53,XMRig Miner,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+SHA256,3e6567dab5e7c7c42a02ac47e8c68f61c9c481bbbbe5ddb1c68e86f7370dab45,XMRig Miner,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+SHA256,9dc313bdf572fc01fe3e38a618a0872599a57053b76955098f5eb9bac90c4791,XMRig Miner,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+SHA256,0f5cb7f8c43d3ebf71d7e22a2ac2fb94d0457ffea870daa2c402508caa39aca8,Muhstik,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+SHA256,e7c5b3de93a3184dc99c98c7f45e6ff5f6881b15d4a56c144e2e53e96dcc0e82,SitesLoader XMRig,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+SHA256,f059246cea87a886acb1938809cf4a1152247a5b5a2df0b1bf64c46a0daccbcc,SitesLoader XMRig,hxxps://blog[.]netlab[.]360[.]com/ten-families-of-malicious-samples-are-spreading-using-the-log4j2-vulnerability-now/
+URL,hxxp://62[.]210[.]130[.]250/lh[.]sh,Mirai,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://62[.]210[.]130[.]250:80/web/admin/x86,Mirai,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://62[.]210[.]130[.]250:80/web/admin/x86_64,Mirai,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://62[.]210[.]130[.]250:80/web/admin/x86_g,Mirai,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://159[.]89[.]182[.]117/wp-content/themes/twentyseventeen/ldm,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://18[.]228[.]7[.]109/[.]log/log,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://18[.]228[.]7[.]109/[.]log/pty1,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://18[.]228[.]7[.]109/[.]log/pty2,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://18[.]228[.]7[.]109/[.]log/pty3,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://18[.]228[.]7[.]109/[.]log/pty4,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://18[.]228[.]7[.]109/[.]log/pty5,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://210[.]141[.]105[.]67:80/wp-content/themes/twentythirteen/m8,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp://45[.]130[.]229[.]168:9999/Exploit[.]class,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+Hostname,bvprzqhoz7j2ltin[.]onion[.]ly,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+Hostname,bvprzqhoz7j2ltin[.]onion[.]ws,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+Hostname,bvprzqhoz7j2ltin[.]tor2web[.]s,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+Hostname,log[.]exposedbotnets[.]ru,Muhstik,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+Domain,nazi[.]uy,Mirai,hxxps://blog[.]netlab[.]360[.]com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/
+URL,hxxp[:]//80[.]71[.]158[.]12/Exploit69ogQNSQYz[.]class,Kinsing,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+URL,hxxp[:]//62[.]210[.]130[.]250/web/admin/x86,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,c38c21120d8c17688f9aeb2af5bdafb6b75e1d2673b025b720e50232f888808a,Kinsing,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,0e574fd30e806fe4298b3cbccb8d1089454f42f52892f87554325cb352646049,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,19370ef36f43904a57a667839727c09c50d5e94df43b9cfb3183ba766c4eae3d,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,2a4e636c4077b493868ea696db3be864126d1066cdc95131f522a4c9f5fb3fec,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,2b794cc70cb33c9b3ae7384157ecb78b54aaddc72f4f9cf90b4a4ce4e6cf8984,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,39db1c54c3cc6ae73a09dd0a9e727873c84217e8f3f00e357785fba710f98129,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,3f6120ca0ff7cf6389ce392d4018a5e40b131a083b071187bf54c900e2edad26,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,5c46098887e488d91f42c6d9b93b17b2736c9f4cb5a4a1e476c87c0d310a3f28,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,6370939d4ff51b934b7a2674ee7307ed06111ab3b896a8847d16107558f58e5b,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,63d43e5b292b806e857470e53412310ad7103432ba3390ecd4f74e432530a8a9,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,6a8965a0f897539cc06fefe65d1a4c5fa450d002d1a9d5d69d2b48f697ee5c05,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,715f1f821d028e165bfa750d73505f1a6136184999411300cc88c18ebfa6e8f7,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,8052f5cc4dfa9a8b4f67280a746acbc099319b9391e3b495a27d08fb5f08db81,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,a3f72a73e146834b43dab8833e0a9cfee6d08843a4c23fdf425295e53517afce,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,b3a6fe5bc3883fd26c682bb6271a700b8a6fe006ad8df6c09cc87530fcd3a778,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,b55ddbaee7abf1c73570d6543dd108df0580b08f730de299579570c23b3078c0,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,c154d739cab62e958944bb4ac5ebad6e965a0442a3f1c1d99d56137e3efa8e40,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,c38f0f809a1d8c50aafc2f13185df1441345f83f6eb4ef9c48270b9bd90c6799,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,e20806791aeae93ec120e728f892a8850f624ce2052205ddb3f104bbbfae7f80,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA256,fe98548300025a46de1e06b94252af601a215b985dad31353596af3c1813efb0,Mirai,hxxps://blog[.]talosintelligence[.]com/2021/12/apache-log4j-rce-vulnerability[.]html
+SHA-256,07a3ba85d77fa2337b86266c9a615ec696b0e5c8986edccc61fa9ba6436a3639,XMRig Miner,hxxps://blogs[.]juniper[.]net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi
+SHA-256,429aeec0165384dd061456ce49fa0039229f7c464edffd62aabd6d1fbdf068f3,XMRig Miner,hxxps://blogs[.]juniper[.]net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi
+SHA-256,7e81fc39bcc8e92a4f0c1296d38df6a10353bbe479e11e2a99a256f670aae392,XMRig Miner,hxxps://blogs[.]juniper[.]net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi
+SHA-256,c56860f50a23082849b6f06fb769f02d2a90753aa8e9397015d8df991c961644 ,XMRig Miner,hxxps://blogs[.]juniper[.]net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi
+IPv4,144[.]48[.]38[.]174 ,XMRig Miner,hxxps://blogs[.]juniper[.]net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi
+IPv4,185[.]189[.]160[.]200 ,XMRig Miner,hxxps://blogs[.]juniper[.]net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi
+IPv4,192[.]99[.]152[.]200 ,XMRig Miner,hxxps://blogs[.]juniper[.]net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi
+IPv4,203[.]27[.]106[.]166 ,XMRig Miner,hxxps://blogs[.]juniper[.]net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi
+IPv4,212[.]47[.]237[.]67 ,XMRig Miner,hxxps://blogs[.]juniper[.]net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi
+IPv4,82[.]102[.]25[.]253 ,XMRig Miner,hxxps://blogs[.]juniper[.]net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi
+URL,hxxp://158[.]247[.]218[.]44:8000/wsnbb[.]sh,XMRig Miner,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+URL,hxxp://3[.]145[.]115[.]94/Main[.]class,Orcus RAT,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+URL,hxxp://test[.]verble[.]rocks/dorflersaladreviews[.]bin[.]encrypted,Orcus RAT,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+URL,hxxp://test[.]verble[.]rocks/dorflersaladreviews[.]ja,Orcus RAT,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+Hostname,test[.]verble[.]rocks,Orcus RAT,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+URL,hxxp://152[.]32[.]216[.]78/Exploit[.]class,Reverse Bash Shell,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+IPv4,152[.]32[.]216[.]78:7777,Reverse Bash Shell,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+URL,hxxp://141[.]98[.]83[.]139:18080/ng60k1,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://141[.]98[.]83[.]139:18080/ng60k1/rwjxfwxcbe,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://141[.]98[.]83[.]139:9883/exp[.]class,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://154[.]82[.]110[.]5:1234/win[.]exe,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://155[.]94[.]154[.]170/aaa,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://155[.]94[.]154[.]170/log4j,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196/1[.]jpg,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196/config[.]jpg,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196/eth[.]jpg,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196/je,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196/logback[.]exe,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196/st[.]sh,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196/st[.]vbs,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196/sys[.]ps1,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/1[.]jpg,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/11[.]bat,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/config[.]jpg,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/config[.]json,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/eth[.]jpg,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/Jamf[.]ps1,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/je,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/log,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/LogBack[.]exe,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/logc,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/s[.]ps1,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/st[.]sh,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/st[.]vbs,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://164[.]52[.]212[.]196:88/sys[.]ps1,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://80[.]71[.]158[.]12/Exploit69ogQNSQYz[.]class,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+SHA256,4d040caffa28e6a0fdc0d274547cf1c7983996fc33e51b0b2c511544f030d71b,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+MD5,e4c8b03ff8cdf1fa63b7d15db6e3860b,JNDI exploit payload,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://45[.]137[.]155[.]55/kinsing,Kinsing,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://80[.]71[.]158[.]12/kinsing,Kinsing,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+SHA256,1a5550f8c0fd049c03d55ebf6829b65d87e27c785f5c6e968dbd3af2ea5b0b50,Mirai,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+SHA256,370048d94830f0ebd41b052ef455ae4b5b7ca62cab27d1d8d94fdade67e454d0,Mirai,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://129[.]226[.]180[.]53/xmrig_setup/raw/master/setup_c3pool_miner[.]sh,XMRig Miner,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+URL,hxxp://129[.]226[.]180[.]53/xmrig_setup/raw/master/xmrig[.]tar[.]gz,XMRig Miner,hxxps://community[.]riskiq[.]com/article/57abbfcf/indicators
+SHA256,c70e6f8edfca4be3ca0dc2cfac8fddd14804b7e1e3c496214d09c6798b4620c5,XMRig Miner,hxxps://isc[.]sans[.]edu/diary/Log4Shell+exploited+to+implant+coin+miners/28126
+SHA256,e8b2a8d0c3444c53f143d0b4ba87c23dd1b58b03fd0a6b1bcd6e8358e57807f1,PowerShell Coinminer,hxxps://isc[.]sans[.]edu/diary/Log4Shell+exploited+to+implant+coin+miners/28127
+SHA256,eb76b7fb22dd442ba7d5064dce4cec79e6db745ace7019b6dfe5642782bf8660,XMRig Miner,hxxps://isc[.]sans[.]edu/diary/Log4Shell+exploited+to+implant+coin+miners/28128
+SHA256,4c97321bcd291d2ca82c68b02cde465371083dace28502b7eb3a88558d7e190c,XMRig Miner,hxxps://isc[.]sans[.]edu/diary/Log4Shell+exploited+to+implant+coin+miners/28129
+URL,hxxp://111[.]90[.]159[.]106/d,Kinsing,hxxps://medium[.]com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d
+URL,hxxp://122[.]51[.]164[.]83/d,Kinsing,hxxps://medium[.]com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d
+URL,hxxp://146[.]71[.]79[.]230/d,Kinsing,hxxps://medium[.]com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d
+URL,hxxp://185[.]181[.]10[.]234/d,Kinsing,hxxps://medium[.]com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d
+URL,hxxp://195[.]3[.]146[.]118/d[.]sh,Kinsing,hxxps://medium[.]com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d
+URL,hxxp://31[.]210[.]20[.]181/d,Kinsing,hxxps://medium[.]com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d
+URL,hxxp://45[.]137[.]151[.]106/d,Kinsing,hxxps://medium[.]com/proferosec-osm/log4shell-massive-kinsing-deployment-9aea3cf1612d
+SHA-256,457b254439cdbbc167b45abc09d9531b59ac7b104e847e453e5abd016991a6e2,StealthLoader,hxxps://research[.]checkpoint[.]com/2021/stealthloader-malware-leveraging-log4shell/
+SHA-256,8c4b72544f1791dd27e87f13a1c9d3070bb70f979e5e2ec98160f9f31945f33b,StealthLoader,hxxps://research[.]checkpoint[.]com/2021/stealthloader-malware-leveraging-log4shell/
+IPv4,176[.]12[.]177[.]110,StealthLoader,hxxps://research[.]checkpoint[.]com/2021/stealthloader-malware-leveraging-log4shell/
+IPv4,188[.]126[.]89[.]151,StealthLoader,hxxps://research[.]checkpoint[.]com/2021/stealthloader-malware-leveraging-log4shell/
+IPv4,2[.]56[.]59[.]123,StealthLoader,hxxps://research[.]checkpoint[.]com/2021/stealthloader-malware-leveraging-log4shell/
+IPv4,87[.]71[.]62[.]56,StealthLoader,hxxps://research[.]checkpoint[.]com/2021/stealthloader-malware-leveraging-log4shell/
+IPv4,95[.]101[.]133[.]173,StealthLoader,hxxps://research[.]checkpoint[.]com/2021/stealthloader-malware-leveraging-log4shell/
+SHA256,8b1d95123a8da5fc351422aa057b9ec7a954c608570757d644e56c72133ec1ed,XMRig Miner,hxxps://s3[.]amazonaws[.]com/talos-intelligence-site/production/document_files/files/000/095/700/original/Dec1521IOCs.txt?1639683730
+SHA256,168c2f085b61ae79a4528a30243b7927df288a22f8c0c3a18ff34a67be3d00d0,XMRig Miner,hxxps://securelist[.]com/cve-2021-44228-vulnerability-in-apache-log4j-library/105210/
+SHA256,58ae310b72fb3eb0341d3198fbee833c9dc701486ea388d3183b4c6bd1db56b1,XMRig Miner,hxxps://securelist[.]com/cve-2021-44228-vulnerability-in-apache-log4j-library/105210/
+SHA256,655389c33e2105404217bc70051cc3aa6bb1566ffd0395511d917ba6b3e1f6c4,XMRig Miner,hxxps://securelist[.]com/cve-2021-44228-vulnerability-in-apache-log4j-library/105210/
+SHA256,87a335ae02bb13ca33b0d76ff82754ceea15003c2cd00226aee8247110434b96,XMRig Miner,hxxps://securelist[.]com/cve-2021-44228-vulnerability-in-apache-log4j-library/105210/
+SHA256,b58c3c3710cc91bb8d6d4ba8978ecd3db7b0c2ddc7ef5208867eba5aafa6d28b,XMRig Miner,hxxps://securelist[.]com/cve-2021-44228-vulnerability-in-apache-log4j-library/105210/
+IPv4,148[.]251[.]71[.]182,Phosphorus stager server,hxxps://thedfirreport[.]com/2021/11/15/exchange-exploit-leads-to-domain-wide-ransomware/
+SHA256,a4b278170b0cb798ec930938b5bd45bbf12370a1ccb31a2bee6b2c406d881df6,Log4j ELF,hxxps://twitter[.]com/_larry0/status/1470362325463015428?s=21
+SHA256,776c341504769aa67af7efc5acc66c338dab5684a8579134d3f23165c7abcc00,Katana-Mirai,hxxps://twitter[.]com/1zrr4h/status/1469734728827904002?s=21
+SHA256,15e7942ebf88a51346d3a5975bb1c2d87996799e6255db9e92aed798d279b36b,Muhstik,hxxps://twitter[.]com/1zrr4h/status/1469734728827904002?s=22
+IPv4,45[.]76[.]99[.]222,TellYouThePass ransomware,hxxps://twitter[.]com/1ZRR4H/status/1471717338491797504
+URL,hxxp://80[.]71[.]158[.]44/kinsing,Kinsing,hxxps://twitter[.]com/an0n_r0/status/1469420399662350336?s=20
+URL,hxxp://80[.]71[.]158[.]44/libsystem[.]so,Kinsing,hxxps://twitter[.]com/an0n_r0/status/1469420399662350336?s=20
+URL,hxxp://62[.]210[.]130[.]250/lh[.]sh,Kinsing,hxxps://twitter[.]com/bad_packets/status/1469408389331488771
+URL,hxxp://80[.]71[.]158[.]12/lh[.]sh,Kinsing,hxxps://twitter[.]com/bad_packets/status/1469408389331488771
+URL,hxxp://103[.]104[.]73[.]155:8080/index ,XMRig Miner,hxxps://twitter[.]com/bad_packets/status/1469408389331488771
+IPv4,195[.]54[.]160[.]149,Kinsing,hxxps://twitter[.]com/craiu/status/1470366234915049472?s=21
+IPv4,45[.]155[.]205[.]233,Kinsing,hxxps://twitter[.]com/craiu/status/1470366234915049472?s=21
+URL,hxxp://185[.]154[.]53[.]140/get,Kinsing,hxxps://twitter[.]com/GelosSnake/status/1469341664477167619
+URL,hxxp://185[.]154[.]53[.]140/mg,Kinsing,hxxps://twitter[.]com/GelosSnake/status/1469341664477167619
+URL,hxxp://185[.]154[.]53[.]140/mg,Kinsing,hxxps://twitter[.]com/GelosSnake/status/1469341664477167619
+URL,hxxp://45[.]137[.]155[.]55/cron[.]sh,Kinsing,hxxps://twitter[.]com/GelosSnake/status/1469341664477167619
+URL,hxxp://45[.]137[.]155[.]55/ex[.]sh,Kinsing,hxxps://twitter[.]com/GelosSnake/status/1469341664477167619
+SHA256,6e25ad03103a1a972b78c642bac09060fa79c460011dc5748cbb433cc459938b,Kinsing,hxxps://twitter[.]com/GelosSnake/status/1469341664477167619
+SHA256,8933820cf2769f6e7f1a711e188f551c3d5d3843c52167a34ab8d6eabb0a63ef,Kinsing,hxxps://twitter[.]com/GelosSnake/status/1469341664477167619
+URL,hxxp://45[.]130[.]229[.]168:9999/Exploit[.]class,Muhstik,hxxps://twitter[.]com/zom3y3/status/1469508032887414784
+URL,hxxp://185[.]191[.]32[.]198/ex[.]sh,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://185[.]191[.]32[.]198/lh[.]sh,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://185[.]191[.]32[.]198/unk[.]sh,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://80[.]71[.]158[.]12/curl-amd64,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://80[.]71[.]158[.]12/libsystem[.]so,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://82[.]118[.]18[.]201/cron[.]sh,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://82[.]118[.]18[.]201/curl-amd64,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://82[.]118[.]18[.]201/kinsing,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://82[.]118[.]18[.]201/lh[.]sh,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://82[.]118[.]18[.]201/libsystem[.]so,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://92[.]242[.]40[.]21/lh2[.]sh,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://93[.]189[.]42[.]8/kinsing,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://93[.]189[.]42[.]8/lh[.]sh,Kinsing,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://103[.]104[.]73[.]155:8080/index,Log4j ELF,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://62[.]210[.]130[.]250/web/admin/x86_64,Mirai,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://138[.]197[.]206[.]223/[.]x/xmra32,XMRig Miner,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+URL,hxxp://138[.]197[.]206[.]223/[.]x/xmra64,XMRig Miner,hxxps://urlhaus[.]abuse[.]ch/browse/tag/log4j/
+IPv4,152[.]67[.]63[.]150,Mirai,hxxps://urlhaus[.]abuse[.]ch/host/152[.]67[.]63[.]150/
+IPv4,155[.]94[.]154[.]170,Elknot/BillGates,hxxps://urlhaus[.]abuse[.]ch/host/155[.]94[.]154[.]170/
+IPv4,159[.]223[.]5[.]30,JNDI exploit source,hxxps://urlhaus[.]abuse[.]ch/host/159[.]223[.]5[.]30/
+URL,hxxp://152[.]67[.]63[.]150/py,Mirai,hxxps://urlhaus[.]abuse[.]ch/url/1890169/
+URL,hxxp://159[.]223[.]5[.]30/server[.]py,JNDI exploit payload,hxxps://urlhaus[.]abuse[.]ch/url/1890172/
+URL,hxxp://159[.]223[.]5[.]30/target/log4shell-1[.]0-SNAPSHOT[.]war,JNDI exploit payload,hxxps://urlhaus[.]abuse[.]ch/url/1890180/
+URL,hxxp://159[.]223[.]5[.]30/target/marshalsec-0[.]0[.]3-SNAPSHOT-all[.]jar,JNDI exploit payload,hxxps://urlhaus[.]abuse[.]ch/url/1890181/
+URL,hxxp://155[.]94[.]154[.]170/bbb,Elknot/BillGates,hxxps://urlhaus[.]abuse[.]ch/url/1890182/
+URL,hxxp://152[.]67[.]63[.]150/include/pyfpjn0[.]x86,Mirai,hxxps://urlhaus[.]abuse[.]ch/url/1890378/
+SHA256,063ccf736c2c19ca5db70b8d8a7cf00377899c16023c63fee836bdefadd336c1,Log4j ELF,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,6b9e23cb675be370a18a0c4482dc566be28920d4f1cd8ba6b4527f80acf978d3,Log4j ELF,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,7e9663f87255ae2ff78eb882efe8736431368f341849fec000543f027bdb4512,Log4j ELF,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,1de182015b280f40b04faac87424f3ae00db8bc90b3ec5d7c02092d72ca1b21e,Mirai,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,1f09bc7eb818beb01f304e96589e5239d3dc525a7b14ce902386211e4ec20b09,Mirai,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,2a68fb75fdfb94a63d666a51111ebf38c5d51844e5002d13cba9839102d67653,Mirai,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,397ee39d591abe45648d55feb3aaf98258eda59ccf36b2a6d9bc2198eb2ea2b2,Mirai,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,4b8e0b70c420d83041629b71404c4d9cb942851a6a0a207b0b353fca4ad289d2,Mirai,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,5621a68c852e0f11a813bbe6cfec2a6419654a31d9da7534fd2a835381f8f90a,Mirai,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,704db1ff3acb38583727ed870f48dc67b70ea9f09882ff56a927a82283d9837d,Mirai,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,7937bbe245511e3666b1f90661bc5fff1ae7bcb1cfda1e5aad9976b66d871c7f,Mirai,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,93a9db9e9e617e460c3f27073337693e43639edb4c551c7ded86ec57039a42f8,Mirai,hxxps://bazaar[.]abuse[.]ch/browse/tag/log4j/
+SHA256,54fed4d05e21995a1359e2482d29cc429a7ce470a6f1a438e763852a27c8de37,Elknot/BillGates,hxxps://bazaar[.]abuse[.]ch/sample/54fed4d05e21995a1359e2482d29cc429a7ce470a6f1a438e763852a27c8de37/
+SHA256,9691061f778674bb4e28fb6a2d88a2fe72711ae71f3d2f4137654e1b5e91c9d2,Mirai,hxxps://bazaar[.]abuse[.]ch/sample/9691061f778674bb4e28fb6a2d88a2fe72711ae71f3d2f4137654e1b5e91c9d2/
+SHA256,be52669997419cd52e42262e5b9049cafe3fe591c8ff2d1b2380e5835b666c63,PowerShell Reverse Shell,hxxps://bazaar[.]abuse[.]ch/sample/be52669997419cd52e42262e5b9049cafe3fe591c8ff2d1b2380e5835b666c63/
+SHA256,eddcd0d13b461e60a52060fc8b60ddb06c552ff645ee557c40b43052ee35b029,Muhstik,hxxps://bazaar[.]abuse[.]ch/sample/eddcd0d13b461e60a52060fc8b60ddb06c552ff645ee557c40b43052ee35b029
+SHA256,f9ec3ce12d9b61fb4b15ee80383256779cc62450107e4e37ac44f8cf4df2c24c,Orcus RAT,hxxps://bazaar[.]abuse[.]ch/sample/f9ec3ce12d9b61fb4b15ee80383256779cc62450107e4e37ac44f8cf4df2c24c/
+SHA256,81f288645cf2afaf018a7ac6363fee28888a9bfbfbfa842b904ed5b6c74cb47f,JNDI exploit payload,hxxps://bazaar[.]abuse[.]ch/sample/81f288645cf2afaf018a7ac6363fee28888a9bfbfbfa842b904ed5b6c74cb47f/
+SHA256,82444084da0460b71a625154ca0bc815d7920137bbdb3463ee174b8efb234637,JNDI exploit payload,hxxps://bazaar[.]abuse[.]ch/sample/82444084da0460b71a625154ca0bc815d7920137bbdb3463ee174b8efb234637/
+URL,45[.]83[.]193[.]150:1389/Exploit,JNDI exploit payload,hxxps://valtix[.]com/blog/log4shell-observations/
+IPv4,45[.]83[.]193[.]150,JNDI exploit source,hxxps://valtix[.]com/blog/log4shell-observations/
+IPv4,112[.]74[.]52[.]90,Zgrab,hxxps://valtix[.]com/blog/log4shell-observations/
+IPv4,104[.]244[.]72[.]120,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/104[.]244[.]72[.]120
+IPv4,104[.]244[.]72[.]239,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/104[.]244[.]72[.]239
+IPv4,104[.]244[.]74[.]28,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/104[.]244[.]74[.]28
+IPv4,107[.]189[.]12[.]227,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/107[.]189[.]12[.]227
+IPv4,107[.]189[.]12[.]238,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/107[.]189[.]12[.]238
+IPv4,107[.]189[.]12[.]7,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/107[.]189[.]12[.]7
+IPv4,107[.]189[.]13[.]238,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/107[.]189[.]13[.]238
+IPv4,107[.]189[.]3[.]110,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/107[.]189[.]3[.]110
+IPv4,107[.]189[.]5[.]68,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/107[.]189[.]5[.]68
+IPv4,108[.]61[.]210[.]108,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/108[.]61[.]210[.]108
+IPv4,109[.]70[.]100[.]21,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/109[.]70[.]100[.]21
+IPv4,167[.]179[.]65[.]77,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/167[.]179[.]65[.]77
+IPv4,169[.]55[.]4[.]38,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/169[.]55[.]4[.]38
+IPv4,178[.]63[.]95[.]120,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/178[.]63[.]95[.]120
+IPv4,185[.]191[.]34[.]223,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/185[.]191[.]34[.]223
+IPv4,185[.]220[.]101[.]23,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/185[.]220[.]101[.]23
+IPv4,185[.]220[.]101[.]8,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/185[.]220[.]101[.]8
+IPv4,185[.]243[.]218[.]50,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/185[.]243[.]218[.]50
+IPv4,185[.]56[.]83[.]81,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/185[.]56[.]83[.]81
+IPv4,188[.]68[.]62[.]150,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/188[.]68[.]62[.]150
+IPv4,192[.]42[.]116[.]23,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/192[.]42[.]116[.]23
+IPv4,192[.]42[.]116[.]28,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/192[.]42[.]116[.]28
+IPv4,193[.]189[.]100[.]205,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/193[.]189[.]100[.]205
+IPv4,195[.]154[.]119[.]181,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/195[.]154[.]119[.]181
+IPv4,196[.]196[.]150[.]38,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/196[.]196[.]150[.]38
+IPv4,198[.]98[.]51[.]222,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/198[.]98[.]51[.]222
+IPv4,198[.]98[.]56[.]248,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/198[.]98[.]56[.]248
+IPv4,207[.]148[.]64[.]14,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/207[.]148[.]64[.]14
+IPv4,209[.]141[.]45[.]168,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/209[.]141[.]45[.]168
+IPv4,23[.]154[.]177[.]3,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/23[.]154[.]177[.]3
+IPv4,36[.]113[.]34[.]20,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/36[.]113[.]34[.]20
+IPv4,37[.]187[.]196[.]70,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/37[.]187[.]196[.]70
+IPv4,41[.]77[.]137[.]114,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/41[.]77[.]137[.]114
+IPv4,43[.]254[.]54[.]195,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/43[.]254[.]54[.]195
+IPv4,45[.]128[.]133[.]242,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/45[.]128[.]133[.]242
+IPv4,45[.]137[.]10[.]201,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/45[.]137[.]10[.]201
+IPv4,45[.]61[.]187[.]205,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/45[.]61[.]187[.]205
+IPv4,46[.]232[.]251[.]191,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/46[.]232[.]251[.]191
+IPv4,5[.]2[.]70[.]192,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/5[.]2[.]70[.]192
+IPv4,5[.]2[.]72[.]110,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/5[.]2[.]72[.]110
+IPv4,5[.]2[.]76[.]221,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/5[.]2[.]76[.]221
+IPv4,51[.]83[.]138[.]78,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/51[.]83[.]138[.]78
+IPv4,64[.]227[.]188[.]164,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/64[.]227[.]188[.]164
+IPv4,64[.]227[.]188[.]168,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/64[.]227[.]188[.]168
+IPv4,89[.]234[.]157[.]254,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/89[.]234[.]157[.]254
+IPv4,91[.]219[.]236[.]197,Log4Shell exploit source,hxxps://viz[.]greynoise[.]io/ip/91[.]219[.]236[.]197
+SHA1,bb6967f006c0680874389c54b2322707a41e16e5 ,Malicious Java Class,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44228
+SHA1,ff30416ab305aada2a0e3fbbd05ca32e82438f1c ,Malicious Java Class,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44230
+SHA1,0679b5145c208091f06928bb4601940b0efb86bf ,Malicious Java Class,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44231
+SHA1,5fcff086eafd4bed4e42687427fd00910fe26b1e,Malicious Java Class,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44232
+SHA1,bd97f9eba8b7a879d775714ee1a4a815b73fd210,Malicious Java Class,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44233
+SHA1,dc7d2d19e3893b810be6a5a280a5eed79342367a ,Malicious Java Class,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44234
+SHA1,Dc7d2c3b0286b7d36a1382b6b4dca1afeb5448e2 ,Malicious Java Class,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44235
+SHA1,4c2ddff1ca4003ca5e3ad897363b55c21041155d ,Malicious Java Class,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44236
+SHA1,b3651f2e069c9db83f35eda3cc663ecfb8167d99,Malicious Java Class,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44237
+SHA1,b1ea87a2db9756bfe8328ac0dd1204c4501e63f4 ,Gafgyt,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44238
+SHA1,12dff86ffceaa394adbd9355e3affe7730b34fa5,Gafgyt,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44239
+SHA1,e3eb1e98ca477918154b9ed7bcc2b7fe757c1020,Gafgyt,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44240
+SHA1,31516a917e8b1fe083de5f64dbcb413681c62ff2,Gafgyt,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44241
+SHA1,4dafb50d1de86068915ed71dcc97f5ccc78f6123,Gafgyt,hxxps://www[.]fastly[.]com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44242
+IPv4,138[.]197[.]206[.]223:80,Kinsing,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,18[.]228[.]7[.]109:80,Kinsing,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,185[.]154[.]53[.]140:80,Kinsing,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,185[.]191[.]32[.]198:80,Kinsing,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,45[.]137[.]155[.]55:80,Kinsing,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,45[.]137[.]155[.]55:80,Kinsing,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,80[.]71[.]158[.]12:80,Kinsing,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,82[.]118[.]18[.]201:80,Kinsing,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,92[.]242[.]40[.]21:80,Kinsing,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,195[.]133[.]40[.]15:25565,Mirai,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,62[.]210[.]130[.]250:80,Mirai,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+IPv4,194[.]59[.]165[.]21:8080,Muhstik,hxxps://www[.]govcert[.]ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/
+SHA256,2fbc3b9421bc770831a724d9e467c7dbc220dc41c0ca21d33a45893be4ff82d4,JNDI exploit payload,hxxps://www[.]lacework[.]com/blog/lacework-labs-identifies-log4j-attackers/
+SHA256,3025630185ea8a3781422351a8a4d415b3f47ed242a70e53fb0d8755ddd01b63,Muhstik,hxxps://www[.]nozominetworks[.]com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/
+SHA256,80faa26a8f697e16f72239936a4ef7863742c78dc2a997abaf3265cda51a5514,Muhstik,hxxps://www[.]nozominetworks[.]com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/
+SHA256,9db49e8da667d03c6f758bafa156d0dccb6433ca3f37b3cd94170f749048b779,Muhstik,hxxps://www[.]nozominetworks[.]com/blog/critical-log4shell-apache-log4j-zero-day-attack-analysis/
+SHA1,0194637f1e83c2efc8bcda8d20c446805698c7bc,Kinsing,hxxps://www[.]trendmicro[.]com/content/dam/trendmicro/global/en/research/21/l/patch-now-apache-log4j-vulnerability-called-log4shell-being-actively-exploited/IOCs-PatchNow-Log4Shell-Vulnerability[.]txt
+SHA1,284a97cab405a28732035186a0c6306a692d4480,Kinsing,hxxps://www[.]trendmicro[.]com/content/dam/trendmicro/global/en/research/21/l/patch-now-apache-log4j-vulnerability-called-log4shell-being-actively-exploited/IOCs-PatchNow-Log4Shell-Vulnerability[.]txt
+SHA1,8dcfce4dcfbead344c15dfc4b3a4395dd0f9750f,Kinsing,hxxps://www[.]trendmicro[.]com/content/dam/trendmicro/global/en/research/21/l/patch-now-apache-log4j-vulnerability-called-log4shell-being-actively-exploited/IOCs-PatchNow-Log4Shell-Vulnerability[.]txt
+SHA1,1d1866b00f948c103a9076b39061bde5c1f68350,Mirai,hxxps://www[.]trendmicro[.]com/content/dam/trendmicro/global/en/research/21/l/patch-now-apache-log4j-vulnerability-called-log4shell-being-actively-exploited/IOCs-PatchNow-Log4Shell-Vulnerability[.]txt
+SHA256,ac2235137a347e373db62c083b90106164554178c354364bde2f89178dc11ac4,Log4j Java Class,hxxps://www[.]virustotal[.]com/gui/file/ac2235137a347e373db62c083b90106164554178c354364bde2f89178dc11ac4/community
+SHA256,b74b2907b3b47fcbdab5054ec3ae8a46c7c330fa60d637e735ce9fe73d9ab687,XMRig Miner,hxxps://www[.]virustotal[.]com/gui/file/b74b2907b3b47fcbdab5054ec3ae8a46c7c330fa60d637e735ce9fe73d9ab687
+URL,hxxp://54.210.230.186/wp-content/themes/twentyfourteen/xmrig.exe,XMRig Miner,hxxps://www.virustotal.com/gui/file/95ac2e2cd2caf30829a9588988601067a98f9bb02e0776a8ef2b813f9b4d8992/relations
+URL,hxxp://3[.]145[.]115[.]94/Main[.]class,Khonsari Ransomware,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+URL,hxxp://3[.]145[.]115[.]94/zambo/groenhuyzen[.]exe,Khonsari Ransomware,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+URL,hxxp://3[.]145[.]115[.]94/zambos_caldo_de_p[.]txt,Khonsari Ransomware,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+SHA256,2e3f685256e5f31b05fc9f9ca470f527d7fdae28fa3190c8eba179473e20789,Khonsari Ransomware,hxxps://www[.]cadosecurity[.]com/analysis-of-novel-khonsari-ransomware-deployed-by-the-log4shell-vulnerability/
+SHA256,efbc218dfff5c4d9e4b1449380fd31a0380aee8cdfede1356ef20a986342b300,Khonsari Ransomware,hxxps://www[.]cadosecurity[.]com/analysis-of-novel-khonsari-ransomware-deployed-by-the-log4shell-vulnerability/
+Email,karenkhonsari[@]gmail[.]com,Khonsari Ransomware,hxxps://businessinsights[.]bitdefender[.]com/technical-advisory-zero-day-critical-vulnerability-in-log4j2-exploited-in-the-wild
+URL,hxxp://158[.]247[.]216[.]148/jquery[.]js?v=142,TellYouThePass ransomware,hxxps://www[.]virustotal[.]com/gui/ip-address/158[.]247[.]216[.]148/relations
+SHA-256,1b671c42ed304dc34ba41ac9f7666a251336455894350af40f402c30afd497df,TellYouThePass ransomware,hxxps://www[.]virustotal[.]com/gui/ip-address/158[.]247[.]216[.]148/relations
+SHA-256,5c8710638fad8eeac382b0323461892a3e1a8865da3625403769a4378622077e,TellYouThePass ransomware,hxxps://www[.]virustotal[.]com/gui/ip-address/158[.]247[.]216[.]148/relations
+URL,hxxp://45[.]76[.]99[.]222/jquery[.]js?v=999999,TellYouThePass ransomware,hxxps://www[.]virustotal[.]com/gui/ip-address/45[.]76[.]99[.]222/relations
+SHA-256,460b096aaf535b0b8f0224da0f04c7f7997c62bf715839a8012c1e1154a38984,TellYouThePass ransomware,hxxps://www[.]virustotal[.]com/gui/ip-address/45[.]76[.]99[.]222/relations
+SHA-256,533abb3f876c5ffc7e3a76874b0c4a3b4995848fa9a278c8a988af90945ecdac,TellYouThePass ransomware,hxxps://www[.]virustotal[.]com/gui/ip-address/45[.]76[.]99[.]222/relations
+SHA-256,8abaa521a014cdbda2afe77042f21947b147197d274bf801de2df55b1e01c904,TellYouThePass ransomware,hxxps://www[.]virustotal[.]com/gui/ip-address/45[.]76[.]99[.]222/relations
+SHA-256,dedeb1640850a6ef21cc0efb5f1f96309f62dc10308c6b6c35a9cdadaaeffa13,TellYouThePass ransomware,hxxps://www[.]virustotal[.]com/gui/ip-address/45[.]76[.]99[.]222/relations
+URL,hxxp://158[.]247[.]216[.]148/jquery[.]js?v=999999,TellYouThePass ransomware,hxxps://www[.]curatedintel[.]org/2021/12/tellyouthepass-ransomware-via-log4shell[.]html
+URL,hxxp://158[.]247[.]216[.]148:443/Down,TellYouThePass ransomware,hxxps://www[.]curatedintel[.]org/2021/12/tellyouthepass-ransomware-via-log4shell[.]html
+URL,"hxxp://158[.]247[.]216[.]148:80/ss64{,[.]exe}",TellYouThePass ransomware,hxxps://www[.]curatedintel[.]org/2021/12/tellyouthepass-ransomware-via-log4shell[.]html
+SHA-256,4d15aa5d68b0e8b081c18d0ee5c06cc1758d17246a8d01b3c8ac48d1ef07610b,TellYouThePass ransomware,hxxps://www[.]curatedintel[.]org/2021/12/tellyouthepass-ransomware-via-log4shell[.]html
+IPv4,158[.]247[.]216[.]148:80,TellYouThePass ransomware,hxxps://www[.]curatedintel[.]org/2021/12/tellyouthepass-ransomware-via-log4shell[.]html
+IPv4,158[.]247[.]216[.]148,TellYouThePass ransomware,hxxps://www[.]curatedintel[.]org/2021/12/tellyouthepass-ransomware-via-log4shell[.]html
+Email,service[@]goodluckday[.]xyz,TellYouThePass ransomware,hxxps://www[.]curatedintel[.]org/2021/12/tellyouthepass-ransomware-via-log4shell[.]html
