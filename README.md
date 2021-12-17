@@ -75,7 +75,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Fastly | Gafgyt | https://www.fastly.com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44228 |
 | Check Point | StealthLoader | https://research.checkpoint.com/2021/stealthloader-malware-leveraging-log4shell/ |
 | Juniper Networks (2) | XMRig | https://blogs.juniper.net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi |
-| AdvIntel | Conti | https://www.bleepingcomputer.com/news/security/conti-ransomware-uses-log4j-bug-to-hack-vmware-vcenter-servers/
+| AdvIntel | Conti | https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement |
 
 ### `Payload Examples`
 
@@ -108,6 +108,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Zgrab                 | Network scanner tool usage     | N/A                                                                                                                  | N/A                                                                                       | [Network Service Scanning, Technique T1046 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/techniques/T1046/)                                       |
 | TellYouThePass Ransomware        | Ransomware usage               | N/A                                                                                                                  | N/A                                                                                       | [Data Encrypted for Impact, Technique T1486 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/techniques/T1486/)                                      |
 | Khonsari Ransomware   | Ransomware usage               | N/A                                                                                                                  | N/A                                                                                       | [Data Encrypted for Impact, Technique T1486 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/techniques/T1486/)                                      |
+| Conti Ransomware   | Ransomware usage               | [Conti (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.conti)                                                                                                                  | [Conti, Software S0575 - MITRE ATT&CK®](https://attack.mitre.org/software/S0575/)                                                                                       | [Data Encrypted for Impact, Technique T1486 - Enterprise - MITRE ATT&CK®](https://attack.mitre.org/techniques/T1486/)                                      |
 
 ### `Threat Groups`
 | Grouping        | Actor | Mentioned Alias | Other Alias [EternalLiberty.csv](https://raw.githubusercontent.com/StrangerealIntel/EternalLiberty/main/EternalLiberty.csv)                                 | Threat Report                                                                                                                                          | Note                                                                                                                                                                                                          |
