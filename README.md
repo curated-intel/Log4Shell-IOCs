@@ -45,7 +45,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | CERT Italy | https://cert-agid.gov.it/download/log4shell-iocs.txt |
 | RISKIQ | https://community.riskiq.com/article/57abbfcf/indicators |
 | Infoblox | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/log4j-exploit-harvesting/ |
-| Juniper Networks | https://blogs.juniper.net/en-us/security/apache-log4j-vulnerability-cve-2021-44228-raises-widespread-concerns |
+| Juniper Networks (1) | https://blogs.juniper.net/en-us/security/apache-log4j-vulnerability-cve-2021-44228-raises-widespread-concerns |
 | Cyble | https://blog.cyble.com/2021/12/13/log4j-rce-0-day-vulnerability-in-java-actively-exploited/ | 
 
 ### `Threat Reports`
@@ -73,6 +73,8 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Cado Security (2) | Khonsari Ransomware | https://www.cadosecurity.com/analysis-of-novel-khonsari-ransomware-deployed-by-the-log4shell-vulnerability/ |
 | Valtix | Kinsing, Zgrab | https://valtix.com/blog/log4shell-observations/ |
 | Fastly | Gafgyt | https://www.fastly.com/blog/new-data-and-insights-into-log4shell-attacks-cve-2021-44228 |
+| Check Point | StealthLoader | https://research.checkpoint.com/2021/stealthloader-malware-leveraging-log4shell/ |
+| Juniper Networks (2) | XMRig | https://blogs.juniper.net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi |
 
 ### `Payload Examples`
 
