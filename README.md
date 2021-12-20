@@ -82,6 +82,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Juniper Networks (2) | XMRig | https://blogs.juniper.net/en-us/threat-research/log4j-vulnerability-attackers-shift-focus-from-ldap-to-rmi |
 | AdvIntel | Conti | https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement |
 | @JakubKroustek | NanoCore RAT | https://twitter.com/JakubKroustek/status/1471621708989837316 |
+| MSTIC (3) | Meterpreter, Bladabindi (njRAT), HabitsRAT, Webtoos | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/#ransomware-update | 
 
 ### `Payload Examples`
 
