@@ -13,7 +13,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 - 2021-12-14
   - Curated Intel members profiled [active exploitation](https://github.com/curated-intel/Log4Shell-IOCs#threat-profiling) threats
 - 2021-12-15
-  - Curated Intel members parsed `MEDIUM CONFIDENCE FEEDS` to be `MISP COMPATIBLE` with the help of the [KPMG-Egyde CTI Team](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/Threat%20Hunt%20Feed%20-%20Medium%20Confidence)
+  - Curated Intel members parsed `MEDIUM CONFIDENCE FEEDS` to be `MISP COMPATIBLE` with the help of the [KPMG-Egyde CTI Team](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/KPMG_Log4Shell_Feeds)
   - Curated Intel members profiled active [threat groups (nation states and organized crime)](https://github.com/curated-intel/Log4Shell-IOCs/blob/main/README.md#threat-groups)
 - 2021-12-16
   - Curated Intel members confirmed the previously unnamed "[New Ransomware](https://twitter.com/80vul/status/1470272820571963392)" is actually "[TellYouThePass Ransomware](https://www.curatedintel.org/2021/12/tellyouthepass-ransomware-via-log4shell.html)", mostly targeting Chinese infrastructure
