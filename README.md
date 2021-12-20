@@ -20,7 +20,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 - 2021-12-17
   - Curated Intel members parsed `VETTED IOCs` with the help of the [Equinix Threat Analysis Center (ETAC)](https://github.com/curated-intel/Log4Shell-IOCs/blob/main/ETAC_Log4Shell_Analysis/ETAC_Vetted_Log4Shell_IOCs.csv)
   - ETAC has also [shared a diagram](https://github.com/curated-intel/Log4Shell-IOCs/blob/main/ETAC_Log4Shell_Analysis/ETAC_Identified_Threats_Log4Shell.jpg) of threat actors, malware, and botnets, leveraging Log4Shell in the wild
-- 2021-12-120
+- 2021-12-20
   - ETAC has added [MITRE ATT&CK TTPs](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/ETAC_Log4Shell_Analysis/ETAC_Log4Shell_ThreatActor_TTPs) of Threat Actors leveraging Log4Shell 
 
 ### `Indicators of Compromise (IOCs)`
