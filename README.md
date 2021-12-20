@@ -83,6 +83,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | AdvIntel | Conti | https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement |
 | @JakubKroustek | NanoCore RAT | https://twitter.com/JakubKroustek/status/1471621708989837316 |
 | MSTIC (3) | Meterpreter, Bladabindi (njRAT), HabitsRAT, Webtoos | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/#ransomware-update | 
+| Cryptolaemus | Dridex, Meterpreter | https://www.bleepingcomputer.com/news/security/log4j-vulnerability-now-used-to-install-dridex-banking-malware/ |
 
 ### `Payload Examples`
 
