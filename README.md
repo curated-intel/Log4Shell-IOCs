@@ -86,6 +86,9 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | @JakubKroustek | NanoCore RAT | https://twitter.com/JakubKroustek/status/1471621708989837316 |
 | MSTIC (3) | Meterpreter, Bladabindi (njRAT), HabitsRAT, Webtoos | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/#ransomware-update | 
 | Cryptolaemus | Dridex, Meterpreter | https://www.bleepingcomputer.com/news/security/log4j-vulnerability-now-used-to-install-dridex-banking-malware/ |
+| CyberSoldiers | Dridex | https://github.com/CyberSoldiers/IOCs/blob/main/log4j_IoCs/Dridex_log4j |
+| Cluster25 | Dridex | https://github.com/Cluster25/feed/blob/main/log4shell/dridex/ioc |
+| FortiGuard | Mirai-based "Worm" | https://www.fortiguard.com/threat-signal-report/4346/mirai-malware-that-allegedly-propagates-using-log4shell-spotted-in-the-wild |
 
 ### `Payload Examples`
 
