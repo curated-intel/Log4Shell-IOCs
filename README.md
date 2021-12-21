@@ -1,11 +1,6 @@
 # Log4Shell-IOCs
 
-Members of the Curated Intelligence Trust Group have compiled a list of IOC feeds and threat reports focused on the recent Log4Shell exploit targeting CVE-2021-44228 in Log4j.
-
-#### Curated Intel:
-- [Blog @curatedintel.org](https://www.curatedintel.org/2021/08/welcome.html)
-- [Twitter @CuratedIntel](https://twitter.com/CuratedIntel)
-- [LinkedIn @CuratedIntelligence](https://www.linkedin.com/company/curatedintelligence/)
+Members of the Curated Intelligence Trust Group have compiled a list of IOC feeds and threat reports focused on the recent Log4Shell exploit targeting CVE-2021-44228 in Log4j. ([Blog](https://www.curatedintel.org/2021/08/welcome.html) | [Twitter](https://twitter.com/CuratedIntel) | [LinkedIn](https://www.linkedin.com/company/curatedintelligence/))
 
 #### Analyst Comments:
 
