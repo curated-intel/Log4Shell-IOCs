@@ -1,0 +1,107 @@
+Product,Source
+Apache Druid ,https://github.com/apache/druid/pull/12051
+Apache Flink ,https://flink.apache.org/2021/12/10/log4j-cve.html
+Apache LOG4J ,https://logging.apache.org/log4j/2.x/security.html
+Apache Kafka ,https://lists.apache.org/thread/lgbtvvmy68p0059yoyn9qxzosdmx4jdv
+Apache Solr ,https://solr.apache.org/security.html#apache-solr-affected-by-apache-log4j-cve-2021-44228
+Apero CAS ,https://apereo.github.io/2021/12/11/log4j-vuln/
+Aptible ,https://status.aptible.com/incidents/gk1rh440h36s?u=zfbcrbt2lkv4
+Atlassian ,https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html
+Automox ,https://blog.automox.com/log4j-critical-vulnerability-scores-a-10
+AWS ,https://aws.amazon.com/security/security-bulletins/AWS-2021-005/
+AZURE Datalake store java ,https://github.com/Azure/azure-data-lake-store-java/blob/ed5d6304783286c3cfff0a1dee457a922e23ad48/CHANGES.md#version-2310
+BACKBLAZE ,https://twitter.com/backblaze/status/1469477224277368838
+BitNami By VMware ,https://docs.bitnami.com/general/security/security-2021-12-10/
+Broadcom ,https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Security-Advisory-for-Log4j-2-CVE-2021-44228-Vulnerability/SYMSA19793
+CarbonBlack ,https://community.carbonblack.com/t5/Threat-Research-Docs/Log4Shell-Log4j-Remote-Code-Execution-CVE-2021-44228/ta-p/109134
+Cerberus FTP ,https://support.cerberusftp.com/hc/en-us/articles/4412448183571-Cerberus-is-not-affected-by-CVE-2021-44228-log4j-0-day-vulnerability
+CheckPoint ,https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176865&partition=General&product=IPS
+Cisco,https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd
+Citrix ,https://support.citrix.com/article/CTX335705
+CloudFlare ,https://blog.cloudflare.com/cve-2021-44228-log4j-rce-0-day-mitigation/
+CPanel ,https://forums.cpanel.net/threads/log4j-cve-2021-44228-does-it-affect-cpanel.696249/
+CommVault ,https://community.commvault.com/technical-q-a-2/log4j-been-used-in-commvault-1985?postid=11745#post11745
+Connect2id ,https://connect2id.com/blog/connect2id-server-12-5-1
+ConnectWise ,https://www.connectwise.com/company/trust/advisories
+ContrastSecurity ,https://support.contrastsecurity.com/hc/en-us/articles/4412612486548
+Coralogix ,https://twitter.com/Coralogix/status/1469713430659559425
+CouchBase ,https://forums.couchbase.com/t/ann-elasticsearch-connector-4-3-3-4-2-13-fixes-log4j-vulnerability/32402
+Cybereason ,https://www.cybereason.com/blog/cybereason-solutions-are-not-impacted-by-apache-log4j-vulnerability-cve-2021-44228
+Datto ,https://www.datto.com/blog/dattos-response-to-log4shell
+Debian ,https://security-tracker.debian.org/tracker/CVE-2021-44228
+Docker ,https://twitter.com/Docker/status/1469730925176967168
+DropWizard ,https://twitter.com/dropwizardio/status/1469285337524580359
+DynaTrace ,https://community.dynatrace.com/t5/Dynatrace-Open-Q-A/Impact-of-log4j-zero-day-vulnerability/m-p/177259/highlight/true#M19282
+Eclipse Foundation ,https://git.eclipse.org/r/c/tracecompass/org.eclipse.tracecompass/+/188751
+Elastic ,https://discuss.elastic.co/t/apache-log4j2-remote-code-execution-rce-vulnerability-cve-2021-44228-esa-2021-31/291476
+EVLLABS JGAAP ,https://github.com/evllabs/JGAAP/releases/tag/v8.0.2
+F5 Networks ,https://support.f5.com/csp/article/K19026212
+F,https://status.f-secure.com/incidents/sk8vmr0h34pd
+Forescout ,https://forescout.force.com/support/s/article/Important-security-information-related-to-Apache-Log4j-utility-CVE-2021-44228
+FusionAuth ,https://fusionauth.io/blog/2021/12/10/log4j-fusionauth/
+Ghidra ,https://github.com/NationalSecurityAgency/ghidra/blob/2c73c72f0ba2720c6627be4005a721a5ebd64b46/README.md#warning
+GitHub ,https://github.com/advisories/GHSA-jfh8-c2jp-5v3q
+Google Cloud Armor WAF ,https://cloud.google.com/blog/products/identity-security/cloud-armor-waf-rule-to-help-address-apache-log4j-vulnerability
+GrayLog ,https://www.graylog.org/post/graylog-update-for-log4j
+GuardedBox ,https://twitter.com/GuardedBox/status/1469739834117799939
+HackerOne ,https://twitter.com/jobertabma/status/1469490881854013444
+Huawei ,https://www.huawei.com/en/psirt/security-notices/huawei-sn-20211210-01-log4j2-en
+HostiFi ,https://twitter.com/hostifi_net/status/1469511114824339464
+Informatica ,https://network.informatica.com/community/informatica-network/blog/2021/12/10/log4j-vulnerability-update
+Ivanti ,https://forums.ivanti.com/s/article/CVE-2021-44228-Java-logging-library-log4j-Ivanti-Products-Impact-Mapping?language=en_US
+JAMF NATION ,https://community.jamf.com/t5/jamf-pro/third-party-security-issue/td-p/253740
+JazzSM DASH IBM ,https://www.ibm.com/support/pages/node/6525552
+Jenkins ,https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/
+JFROG ,https://twitter.com/jfrog/status/1469385793823199240
+Jitsi ,https://github.com/jitsi/security-advisories/blob/4e1ab58585a8a0593efccce77d5d0e22c5338605/advisories/JSA-2021-0004.md
+Keycloak ,https://github.com/keycloak/keycloak/discussions/9078
+Kafka Connect CosmosDB ,https://github.com/microsoft/kafka-connect-cosmosdb/blob/0f5d0c9dbf2812400bb480d1ff0672dfa6bb56f0/CHANGELOG.md
+LucentSKY ,https://twitter.com/LucentSky/status/1469358706311974914
+Macchina io ,https://twitter.com/macchina_io/status/1469611606569099269
+McAfee ,https://kc.mcafee.com/corporate/index?page=content&id=KB95091
+Metabase ,https://github.com/metabase/metabase/commit/8bfce98beb25e48830ac2bfd57432301c5e3ab37
+Minecraft ,https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition
+N,https://www.n-able.com/security-and-privacy/apache-log4j-vulnerability
+NELSON ,https://github.com/getnelson/nelson/blob/f4d3dd1f1d4f8dfef02487f67aefb9c60ab48bf5/project/custom.scala
+NetApp ,https://security.netapp.com/advisory/ntap-20211210-0007/
+Netflix ,https://github.com/search?q=org%3ANetflix+CVE-2021-44228&type=commits
+Newrelic ,https://github.com/newrelic/newrelic-java-agent/issues/605
+Okta ,https://sec.okta.com/articles/2021/12/log4shell
+OpenHab ,https://github.com/openhab/openhab-distro/pull/1343
+OpenNMS ,https://www.opennms.com/en/blog/2021-12-10-opennms-products-affected-by-apache-log4j-vulnerability-cve-2021-44228/
+OpenSearch ,https://discuss.opendistrocommunity.dev/t/log4j-patch-for-cve-2021-44228/7950
+Oracle ,https://www.oracle.com/security-alerts/alert-cve-2021-44228.html
+Palo,https://security.paloaltonetworks.com/CVE-2021-44228
+PaperCut ,https://www.papercut.com/support/known-issues/#PO-684
+Positive Technologies ,https://twitter.com/ptsecurity/status/1469398376978522116
+Pulse Secure ,https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/?kA13Z000000L3dR
+Puppet ,https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/
+Pure Storage ,https://support.purestorage.com/Field_Bulletins/Interim_Security_Advisory_Regarding_CVE-2021-44228_(%22log4j%22)
+RedHat ,https://access.redhat.com/security/cve/cve-2021-44228
+RunDeck by PagerDuty ,https://docs.rundeck.com/docs/history/CVEs/
+RSA ,https://community.rsa.com/t5/general-security-advisories-and/rsa-customer-advisory-apache-vulnerability-log4j2-cve-2021-44228/ta-p/660501
+Rubrik ,https://support.rubrik.com/s/announcementdetail?Id=a406f000001PwOcAAK
+SailPoint ,https://community.sailpoint.com/t5/IdentityIQ-Blog/IdentityIQ-log4j-Remote-Code-Execution-Vulnerability/ba-p/206681
+Salesforce ,https://help.salesforce.com/s/articleView?id=000363736&type=1
+Security Onion ,https://blog.securityonion.net/2021/12/security-onion-2390-20211210-hotfix-now.html
+ServiceNow ,https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1000959
+Sesam Info ,https://twitter.com/sesam_info/status/1469711992122486791
+SmileCDR ,https://www.smilecdr.com/our-blog/a-statement-on-log4shell-cve-2021-44228
+Sophos ,https://www.sophos.com/en-us/security-advisories/sophos-sa-20211210-log4j-rce
+SonarSource ,https://community.sonarsource.com/t/sonarqube-and-the-log4j-vulnerability/54721
+SonicWall ,https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0032
+Spring Boot ,https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot
+SUSE ,https://www.suse.com/security/cve/CVE-2021-44228.html
+Sterling Order IBM ,https://www.ibm.com/support/pages/node/6525544
+Swingset ,https://github.com/bpangburn/swingset/blob/017452b2d0d8370871f43a68043dacf53af7f759/swingset/CHANGELOG.txt#L10
+Talend ,https://jira.talendforge.org/browse/TCOMP-2054
+Tanium ,https://community.tanium.com/s/article/How-Tanium-Can-Help-with-CVE-2021-44228-Log4Shell
+TrendMicro ,https://success.trendmicro.com/solution/000289940
+Ubiquiti,https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1
+Vespa ENGINE ,https://github.com/vespa-engine/blog/blob/f281ce4399ed3e97b4fed32fcc36f9ba4b17b1e2/_posts/2021-12-10-log4j-vulnerability.md
+VMware ,https://www.vmware.com/security/advisories/VMSA-2021-0028.html
+Wallarm ,https://lab.wallarm.com/cve-2021-44228-mitigation-update/
+Wowza ,https://www.wowza.com/docs/known-issues-with-wowza-streaming-engine#log4j2-cve
+Yandex,https://github.com/yandex-cloud/docs/blob/6ff6c676787756e7dd6101c53b051e4cd04b3e85/ru/overview/security-bulletins/index.md#10122021--cve-2021-44228--%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%BE%D0%B4%D0%B0-log4shell-apache-log4j
+ZAMMAD ,https://community.zammad.org/t/cve-2021-44228-elasticsearch-users-be-aware/8256
+Zaproxy ,https://www.zaproxy.org/blog/2021-12-10-zap-and-log4shell/
