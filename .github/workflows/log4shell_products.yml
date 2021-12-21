@@ -1,0 +1,42 @@
+name: Update repository data
+
+on:
+  schedule:
+    - cron: 0 */4 * * *
+    
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2.3.1
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r .github/scripts/requirements.txt
+      - name: Run Python script
+        run: |
+          python .github/scripts/get_data.py
+      
+      - uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          filters: |
+            product_list:
+              - 'CI_Log4Shell_Products/**'
+
+      - name: product_list tests
+        if: steps.filter.outputs.product_list == 'true'
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          
+          git add .
+          git commit -m "Update data workflow"
+          git push
