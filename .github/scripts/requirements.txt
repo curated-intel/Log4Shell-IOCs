@@ -1,6 +1,7 @@
 bs4
 pandas
 loguru
+mistune
 requests
 html5lib
 xlsxwriter
