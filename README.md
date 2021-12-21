@@ -1,6 +1,11 @@
 # Log4Shell-IOCs
 
-Members of the Curated Intelligence Trust Group have compiled a list of IOC feeds and threat reports focused on the recent Log4Shell exploit targeting CVE-2021-44228 in Log4j
+Members of the Curated Intelligence Trust Group have compiled a list of IOC feeds and threat reports focused on the recent Log4Shell exploit targeting CVE-2021-44228 in Log4j.
+
+#### Curated Intel:
+- [Blog @curatedintel.org](https://www.curatedintel.org/2021/08/welcome.html)
+- [Twitter @CuratedIntel](https://twitter.com/CuratedIntel)
+- [LinkedIn @CuratedIntelligence](https://www.linkedin.com/company/curatedintelligence/)
 
 #### Analyst Comments:
 
@@ -107,7 +112,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | ------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Dridex              | Banking Trojan             | [Dridex (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.dridex)     | [Didex, Software S0384](https://attack.mitre.org/software/S0384/)                                                                       | [Command and Control, Tactic TA0011](https://attack.mitre.org/tactics/TA0011/)                                                |
 | Cobalt Strike             | Attack tool usage              | [Cobalt Strike (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.cobalt_strike) | [Cobalt Strike, Software S0154](https://attack.mitre.org/software/S0154/) | [Command and Control, Tactic TA0011](https://attack.mitre.org/tactics/TA0011/)                                                |
-| Meterperter               | Attack tool usage              | [Meterpreter (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.meterpreter)     | N/A                                                                       | [Command and Control, Tactic TA0011](https://attack.mitre.org/tactics/TA0011/)                                                |
+| Meterpreter               | Attack tool usage              | [Meterpreter (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.meterpreter)     | N/A                                                                       | [Command and Control, Tactic TA0011](https://attack.mitre.org/tactics/TA0011/)                                                |
 | Orcus RAT                 | Attack tool usage              | [Orcus RAT (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.orcus_rat)         | N/A                                                                       | [Remote Access Software, Technique T1219](https://attack.mitre.org/techniques/T1219/)                                                |
 | NanoCore RAT              | Attack tool usage              | [NanoCore RAT (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.nanocore)       | [NanoCore, Software S0336](https://attack.mitre.org/software/S0336/)      | [Remote Access Software, Technique T1219](https://attack.mitre.org/techniques/T1219/)                                                |
 | njRAT / Bladabindi              | Attack tool usage              | [njRAT (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.njrat)       | [njRAT, Software S0385](https://attack.mitre.org/software/S0385/)      | [Remote Access Software, Technique T1219](https://attack.mitre.org/techniques/T1219/)                                                |
