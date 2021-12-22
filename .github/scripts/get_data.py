@@ -32,7 +32,7 @@ STEPS = {
         },
     },
     "cisagov": {
-        "url": "https://git.io/JDF3t",
+        "url": "https://github.com/cisagov/log4j-affected-db/blob/develop/SOFTWARE-LIST.md",
         "parser": "markdown",
         "kwargs": {
             "start_tag": "h2",
