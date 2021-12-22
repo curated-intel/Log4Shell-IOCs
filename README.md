@@ -26,7 +26,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 - 2021-12-21
   - Curated Intel members parsed `VULNERABLE PRODUCT LISTS` to be `CSV+XLSX COMPATIBLE` with an [automated workflow](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/CI_Log4Shell_Products), pulling from [NCSC-NL](https://raw.githubusercontent.com/NCSC-NL/log4shell/main/software/README.md) + [CISA](https://github.com/cisagov/log4j-affected-db/blob/develop/README.md) + [SwitHak](https://gist.githubusercontent.com/SwitHak/b66db3a06c2955a9cb71a8718970c592/raw/2616607b598f9eba8b82ff14e14022a8de70ca49/20211210-TLP-WHITE_LOG4J.md)
 - 2021-12-22
-  - Added very basic false-positive filtering using selected [MISP warning lists](https://github.com/MISP/misp-warninglists) to [threat hunting feeds](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/KPMG_Log4Shell_Feeds), mostly to remove false-positives of large DNS resolvers (among others)
+  - Added very basic false-positive filtering for to [threat hunting feeds](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/KPMG_Log4Shell_Feeds) using selected [MISP warning lists](https://github.com/MISP/misp-warninglists), primarily to remove false-positives of large DNS resolvers (among others)
 
 ### `Indicators of Compromise (IOCs)`
 | Source | URL |
