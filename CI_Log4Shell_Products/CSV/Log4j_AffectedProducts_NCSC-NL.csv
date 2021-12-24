@@ -1428,7 +1428,7 @@ Extreme Networks,XIQ-SE,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https:
 Ewon (HMS-Networks),eCatcher,6.7.8,Not vuln,Fix,Fix,Fix,,"{'source': 'https://hmsnetworks.blob.core.windows.net/www/docs/librariesprovider10/downloads-monitored/manuals/release-notes/ecatcher_releasenotes.txt?sfvrsn=4f054ad7_42', 'bulletin': 'https://www.hms-networks.com/cybersecurity'}"
 F5,All products,,,Not vuln,,,"F5 products themselves are not vulnerable, but F5 published guidance on mitigating through BIG-IP ASM/Advanced WAF and NGINX App Protect",{'source': 'https://support.f5.com/csp/article/K19026212'}
 Fiix,CMMS core,V5,Not vuln,Fix,,,,{'source': 'https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1133605'}
-FileCap,FileCap Server,5.1.1,Not vuln,Fix,,,,{'source': 'https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen'}
+FileCap,FileCap Server,5.1.3,Not vuln,Fix,Fix,Fix,,{'source': 'https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen'}
 FileCap,FileCap Plugins,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://filecap.com/blog-posts/detecteer-log4shell-exploitatie-pogingen'}
 FileZilla,All,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://forum.filezilla-project.org/viewtopic.php?f=6&t=54338'}
 Forcepoint,Advanced Malware Detection,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.forcepoint.com/s/article/Apache-log4j-Zero-Day-RCE-Vulnerability-CVE-2021-44228'}
@@ -1481,8 +1481,49 @@ Fortinet,FortiToken Cloud,,,Not vuln,,,,{'source': 'https://www.fortiguard.com/p
 Fortinet,FortiVoice,,,Not vuln,,,,{'source': 'https://www.fortiguard.com/psirt/FG-IR-21-245'}
 Fortinet,FortiWeb Cloud,,,Not vuln,,,,{'source': 'https://www.fortiguard.com/psirt/FG-IR-21-245'}
 Fortinet,ShieldX,,,Vulnerable,,,,{'source': 'https://www.fortiguard.com/psirt/FG-IR-21-245'}
-Fujitsu,ServerView Suite,Unknown,,Vulnerable,,,Log4j v2.12 present in ServerView Operations Manager,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
-Fujitsu,SecDocs,Unknown,,Vulnerable,,,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,AIS Connect,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,BeanConnect,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,BS2000 Hardware,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,BS2000 Software,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,BX400,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,BX900 MMB,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,eLux RP on FUTRO,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ETERNUS AB/HB,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ETERNUS CS800,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ETERNUS CS8000,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ETERNUS DX/AF,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ETERNUS JX,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ETERNUS LT140/260,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ETERNUS LT20/40/60,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ETERNUS SF,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ETERNUS SF MA,Unkown,Investigation,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,FlexFrame,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,INTELLIEGDLE A/G,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,iRMC on PRIMERGY:,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,"ISM for PRIMERGY, PQ",Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,NECoP,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,openFT,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,openSEAS,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,openUTM,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,openUTM (WebAdm.),Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,PRIMEFLEX for MS S2D,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,PTC Axeda (AIS Con.),Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,SBAX2,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,SBAX3,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,SecDocs,Unkown,Not vuln,Workaround,Workaround,Workaround,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ServerView IM,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ServerView OM,Unkown,Not vuln,Workaround,Workaround,Workaround,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ServerView OM/UM,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ServerView RAID,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ServerView Rem. Con.,Unkown,Investigation,Investigation,Investigation,Investigation,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,ServerView VIOM,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,SOA Pro. Mgmt. Service,Unkown,Investigation,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,SOA SysRollout Service,Unkown,Investigation,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,SVS Servicesfor ISM,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,SVS UME +LinuxLife,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,SVS VMware Op.Mgr,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,SVS VMware vCenter,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
+Fujitsu,WebTransactions,Unkown,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2021-121000-Security-Notice-SF.pdf'}
 F-Secure,Endpoint Proxy,13-15,Not vuln,Fix,,,,{'source': 'https://status.f-secure.com/incidents/sk8vmr0h34pd'}
 F-Secure,Policy Manager,13-15,Not vuln,Fix,,,,{'source': 'https://status.f-secure.com/incidents/sk8vmr0h34pd'}
 F-Secure,Policy Manager Proxy,13-15,Not vuln,Fix,,,,{'source': 'https://status.f-secure.com/incidents/sk8vmr0h34pd'}
@@ -3864,10 +3905,22 @@ Xerox,Workspace Cloud,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'Xerox-Sp
 Xerox,XMPie Data-Driven Print and VDP,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf'}
 Xerox,XMPie Omnichannel Communications,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf'}
 Xerox,XMPie Web to Print,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'Xerox-Special-Bulletin-XRX21-021-Regarding-CVE-2021-44228-and-CVE-2021-45046-v1.5.pdf'}
-Yahoo,Vespa,,Not vuln,Not vuln,Not vuln,Not vuln,Your Vespa application may still be affected if log4j is included in your application package,{'source': 'https://blog.vespa.ai/log4j-vulnerability/'}
 Y Soft,SAFEQ 6,<= 6.0.63,Not vuln,Workaround,,,,{'source': 'https://www.ysoft.com/getattachment/Products/Security/Standards-Compliance/text/Information-Security-Policy-Statement/YSOFT-SAFEQ-LOG4J-VULNERABILITY-PRODUCT-UPDATE-WORKAROUND-1.pdf'}
+Yahoo,Vespa,,Not vuln,Not vuln,Not vuln,Not vuln,Your Vespa application may still be affected if log4j is included in your application package,{'source': 'https://blog.vespa.ai/log4j-vulnerability/'}
 Yellowfin,Yellowfin,"8.0.10.3, 9.7.0.2",Not vuln,Fix,,,v7 and v6 releases are not affected unless you have manually upgraded to Log4j2,{'source': 'https://community.yellowfinbi.com/announcement/notice-critical-vulnerability-in-log4j2'}
 Yenlo,Connext,2.x,Not vuln,Not vuln,Not vuln,Not vuln,Connext Platform (Managed WSO2 Cloud) and all underlying middleware components are not vulnerable,{'source': 'https://www.yenlo.com/news/vulnerability-code-log4shell-log4j2'}
+Yokogawa,CENTUM VP,Unified Gateway Station (UGS2) Standard Function R6.06.00 or earlier,Investigation,Investigation,Investigation,Investigation,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,CENTUM VP (other components),,Not vuln,Not vuln,Not vuln,Not vuln,Unified Gateway Station (UGS2) Standard Function R6.06.00 or earlier is still under investigation,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,CI Server,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,Exaopc,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,Exaplog,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,Exaquantum,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,FAST/TOOLS,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,PRM,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,ProSafe-RS,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,ProSafe-RS Lite,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,STARDOM,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
+Yokogawa,VTSPortal,,Not vuln,Not vuln,Not vuln,Not vuln,,{'source': 'https://www.yokogawa.com/solutions/products-platforms/announcements/important-notice/log4shell/'}
 Zabbix,Zabbix,,Not vuln,Not vuln,Not vuln,Not vuln,"Zabbix is aware of this vulnerability, has completed verification, and can conclude that the only product where we use Java is Zabbix Java Gateway, which does not utilize the log4j library, thereby is not impacted by this vulnerability.",{'source': 'https://blog.zabbix.com/zabbix-not-affected-by-the-log4j-exploit/17873/'}
 Zammad,Zammad,,Not vuln,Workaround,,,Most of Zammad instances make use of Elasticsearch which might be vulnerable.,{'source': 'https://community.zammad.org/t/cve-2021-44228-elasticsearch-users-be-aware/8256'}
 Zeiss,Cataract Suite,1.3.1,Not vuln,Fix,,,Patch is available,{'source': 'https://www.zeiss.com/meditec/int/cybersecurity/apache-log4j/english.html'}
