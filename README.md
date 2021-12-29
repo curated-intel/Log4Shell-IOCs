@@ -57,6 +57,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Infoblox | https://blogs.infoblox.com/cyber-threat-intelligence/cyber-campaign-briefs/log4j-exploit-harvesting/ |
 | Juniper Networks (1) | https://blogs.juniper.net/en-us/security/apache-log4j-vulnerability-cve-2021-44228-raises-widespread-concerns |
 | Cyble | https://blog.cyble.com/2021/12/13/log4j-rce-0-day-vulnerability-in-java-actively-exploited/ | 
+| Securonix | https://github.com/Securonix/AutonomousThreatSweep/tree/main/Log4Shell |
 
 ### `Threat Reports`
 
