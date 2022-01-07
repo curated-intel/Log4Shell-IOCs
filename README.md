@@ -95,6 +95,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | CyberSoldiers | Dridex | https://github.com/CyberSoldiers/IOCs/blob/main/log4j_IoCs/Dridex_log4j |
 | Cluster25 | Dridex | https://github.com/Cluster25/feed/blob/main/log4shell/dridex/ioc |
 | FortiGuard | Mirai-based "Worm" | https://www.fortiguard.com/threat-signal-report/4346/mirai-malware-that-allegedly-propagates-using-log4shell-spotted-in-the-wild |
+| CyStack | Kworker backdoor | https://cystack.net/research/the-attack-on-onus-a-real-life-case-of-the-log4shell-vulnerability |
 
 ### `Payload Examples`
 
