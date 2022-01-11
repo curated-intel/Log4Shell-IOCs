@@ -29,7 +29,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
   - Curated Intel members added very basic `FALSE-POSITIVE FILTERING` for [threat hunting feed](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/KPMG_Log4Shell_Feeds) outputs, using selected [MISP warning lists](https://github.com/MISP/misp-warninglists), primarily to remove false-positives of large DNS resolvers (among others)
 - 2021-12-29
   - Added Securonix Autonomous Threat Sweep vetted IoC's and TTP's
-- 2022-01-22
+- 2022-01-10
   - Updated MSTIC (2) report now tracks a China-based double-extortion ransomware operator, DEV-0401, who deployed NightSky ransomware
 
 ### `Indicators of Compromise (IOCs)`
