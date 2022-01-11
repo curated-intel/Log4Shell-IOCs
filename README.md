@@ -30,7 +30,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 - 2021-12-29
   - Added Securonix Autonomous Threat Sweep vetted IoC's and TTP's
 - 2022-01-22
-  - Added MSTIC report for a China-based double-extortion ransomware operator DEV-0401, who deployed NightSky ransomware
+  - Updated MSTIC report now tracks a China-based double-extortion ransomware operator, DEV-0401, who deployed NightSky ransomware
 
 ### `Indicators of Compromise (IOCs)`
 | Source | URL |
