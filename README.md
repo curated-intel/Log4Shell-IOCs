@@ -29,6 +29,10 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
   - Curated Intel members added very basic `FALSE-POSITIVE FILTERING` for [threat hunting feed](https://github.com/curated-intel/Log4Shell-IOCs/tree/main/KPMG_Log4Shell_Feeds) outputs, using selected [MISP warning lists](https://github.com/MISP/misp-warninglists), primarily to remove false-positives of large DNS resolvers (among others)
 - 2021-12-29
   - Added Securonix Autonomous Threat Sweep vetted IoC's and TTP's
+- 2022-01-10
+  - Updated MSTIC (4) report now tracks a China-based double-extortion ransomware operator, DEV-0401, who deployed NightSky ransomware via VMWare Horizon initial access
+- 2022-01-11
+  - SentinelOne shared their analysis of cybercrime actors leveraging Log4j one month since disclosure, with new info on the Emotet botnet using Log4j for payload hosting
 
 ### `Indicators of Compromise (IOCs)`
 | Source | URL |
@@ -95,6 +99,9 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | CyberSoldiers | Dridex | https://github.com/CyberSoldiers/IOCs/blob/main/log4j_IoCs/Dridex_log4j |
 | Cluster25 | Dridex | https://github.com/Cluster25/feed/blob/main/log4shell/dridex/ioc |
 | FortiGuard | Mirai-based "Worm" | https://www.fortiguard.com/threat-signal-report/4346/mirai-malware-that-allegedly-propagates-using-log4shell-spotted-in-the-wild |
+| CyStack | Kworker backdoor | https://cystack.net/research/the-attack-on-onus-a-real-life-case-of-the-log4shell-vulnerability |
+| MSTIC (4) | DEV-0401 | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/#ransomware-update |
+| DarkFeed | AvosLocker | https://twitter.com/ido_cohen2/status/1478418331434639363 |
 
 ### `Payload Examples`
 
@@ -132,6 +139,8 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | TellYouThePass Ransomware | Ransomware usage               | N/A                                                                                                                  | N/A                                                                       | [Data Encrypted for Impact, Technique T1486](https://attack.mitre.org/techniques/T1486/)                                      |
 | Khonsari Ransomware       | Ransomware usage               | N/A                                                                                                                  | N/A                                                                       | [Data Encrypted for Impact, Technique T1486](https://attack.mitre.org/techniques/T1486/)                                      |
 | Conti Ransomware          | Ransomware usage               | [Conti (Malware Family) (fraunhofer.de)](https://malpedia.caad.fkie.fraunhofer.de/details/win.conti)                 | [Conti, Software S0575](https://attack.mitre.org/software/S0575/)         | [Data Encrypted for Impact, Technique T1486](https://attack.mitre.org/techniques/T1486/)                                      |
+| NightSky Ransomware       | Ransomware usage               | N/A | N/A        | [Data Encrypted for Impact, Technique T1486](https://attack.mitre.org/techniques/T1486/)                                      |
+| AvosLocker Ransomware       | Ransomware usage               | N/A | N/A        | [Data Encrypted for Impact, Technique T1486](https://attack.mitre.org/techniques/T1486/)                                      |
 
 ### `Threat Groups`
 | Grouping        | Actor | Mentioned Alias | Other Alias [EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv)                                 | Threat Report                                                                                                                                          | Note                                                                                                                                                                                                          |
@@ -141,3 +150,5 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | Organized Cybercrime | Russia | Wizard Spider | Trickbot Gang, FIN12, GOLD BLACKBURN, Grim Spider | [AdvIntel](https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement) | Wizard Spider is the developer of the Conti Ransomware-as-a-Service (RaaS) operation which has a high number of affiliates, and a Conti affiliate has leveraged Log4Shell in Log4j2 in the wild |
 | Organized Cybercrime | Russia | EvilCorp | Indrik Spider, GOLD DRAKE | [Cryptolaemus](https://www.bleepingcomputer.com/news/security/log4j-vulnerability-now-used-to-install-dridex-banking-malware/) | EvilCorp are the developers of the Dridex Trojan, which began life as a banking malware but has since shifted to support the delivery of ransomware, which has included BitPaymer, DoppelPaymer, Grief, and WastedLocker, among others. Dridex is now being dropped following the exploitation of vulnerable Log4j instances |
 | State actor | China | Aquatic Panda | N/A | [CrowdStrike](https://www.crowdstrike.com/blog/overwatch-exposes-aquatic-panda-in-possession-of-log-4-shell-exploit-tools/) | AQUATIC PANDA is a China-based targeted intrusion adversary with a dual mission of intelligence collection and industrial espionage. It has likely operated since at least May 2020. AQUATIC PANDA operations have primarily focused on entities in the telecommunications, technology and government sectors. AQUATIC PANDA relies heavily on Cobalt Strike, and its toolset includes the unique Cobalt Strike downloader tracked as FishMaster. AQUATIC PANDA has also been observed delivering njRAT payloads to targets. |
+| To be determined | China | DEV-0401 | N/A | [MSTIC (4)](https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/) | Attackers started exploiting the CVE-2021-44228 vulnerability in internet-facing systems running VMware Horizon. An investigation shows that successful intrusions in these campaigns led to the deployment of the NightSky ransomware. These attacks are performed by a China-based ransomware operator that MSTIC is tracking as DEV-0401. DEV-0401 has previously deployed multiple ransomware families including LockFile, AtomSilo, and Rook, and has similarly exploited Internet-facing systems running Confluence (CVE-2021-26084) and on-premises Exchange servers (CVE-2021-34473). |
+| Organized Cybercrime | Russia | Mummy Spider | TA542, MealyBug, GoldCrestwood | [SentinelOne](https://www.sentinelone.com/blog/log4j-one-month-on-crimeware-and-exploitation-roundup/) | Naturally, the Emotet crew has been taking advantage of Log4j as well. For example, vulnerable servers were quickly compromised and used for staging and payload hosting within the greater Emotet network. |
