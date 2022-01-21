@@ -102,6 +102,7 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
 | CyStack | Kworker backdoor | https://cystack.net/research/the-attack-on-onus-a-real-life-case-of-the-log4shell-vulnerability |
 | MSTIC (4) | DEV-0401 | https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/#ransomware-update |
 | DarkFeed | AvosLocker | https://twitter.com/ido_cohen2/status/1478418331434639363 |
+| Centre for Cyber security Belgium | Farfli RAT, CobaltStrike | https://twitter.com/FancyCyber/status/1482454456071598082?s=20 |
 
 ### `Payload Examples`
 
