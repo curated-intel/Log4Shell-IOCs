@@ -35,6 +35,8 @@ Members of the Curated Intelligence Trust Group have compiled a list of IOC feed
   - Updated MSTIC (4) report now tracks a China-based double-extortion ransomware operator, DEV-0401, who deployed NightSky ransomware via VMWare Horizon initial access
 - 2022-01-11
   - SentinelOne shared their analysis of cybercrime actors leveraging Log4j one month since disclosure, with new info on the Emotet botnet using Log4j for payload hosting
+- 2022-03-03
+  - Threat hunting feeds updated by KPMG-Egyde CTI
 
 ### `Indicators of Compromise (IOCs)`
 | Source | URL |
